@@ -1,5 +1,3 @@
-# travel
-
 ## Planning
 
 * Miami, FL, April 2012
