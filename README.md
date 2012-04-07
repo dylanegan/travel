@@ -1,7 +1,7 @@
 ## Planning
 
 * [Miami, FL, April 2012](https://github.com/dylanegan/travel/blob/master/USA/Florida/Miami-April-2012.md)
-* Austin, TX, April 2012
+* [Austin, TX, April 2012](https://github.com/dylanegan/travel/blob/master/USA/Texas/Austin-April-2012.md)
 * [Marfa, TX, April 2012](https://github.com/dylanegan/travel/blob/master/USA/Texas/Marfa-April-2012.md)
 
 ## Photos
