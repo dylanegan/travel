@@ -6,6 +6,7 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 
 ## Accommodation
 
+* [El Cosmico](http://www.elcosmico.com/)
 * [The Hotel Paisano](http://www.hotelpaisano.com/)
 * [Thunderbird](http://thunderbirdmarfa.com/)
 
