@@ -1,4 +1,4 @@
-# Marfa, April 2012
+# [Marfa](http://en.wikipedia.org/wiki/Marfa,_Texas), April 2012
 
 ## Transport
 
