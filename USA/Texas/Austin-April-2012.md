@@ -10,6 +10,7 @@
 
 ## Dining
 
+* [Peche](http://www.pecheaustin.com/)
 * [The Shady Grove](http://www.theshadygrove.com/)
 
 ## Drinking
