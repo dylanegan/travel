@@ -2,7 +2,6 @@
 
 <a href="/dylanegan/travel/fork_select" class="minibutton btn-fork" rel="facebox nofollow">Help me</a> plan the following;
 
-* [Miami, FL, April 2012](https://github.com/dylanegan/travel/blob/master/USA/Florida/Miami-April-2012.md)
 * [Austin, TX, April 2012](https://github.com/dylanegan/travel/blob/master/USA/Texas/Austin-April-2012.md)
 * [Marfa, TX, April 2012](https://github.com/dylanegan/travel/blob/master/USA/Texas/Marfa-April-2012.md)
 
