@@ -6,9 +6,11 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 
 ## Accommodation
 
-* [El Cosmico](http://www.elcosmico.com/)
-* [The Hotel Paisano](http://www.hotelpaisano.com/)
-* [Thunderbird](http://thunderbirdmarfa.com/)
+* [Casita Colores](http://www.casitacoloresmarfa.com/)
+* ~~[El Cosmico](http://www.elcosmico.com/)~~
+* ~~[The Hotel Paisano](http://www.hotelpaisano.com/)~~
+* ~~[Thunderbird](http://thunderbirdmarfa.com/)~~
+* [VRBO 393337](http://www.vrbo.com/393337)
 
 ## Dining
 
