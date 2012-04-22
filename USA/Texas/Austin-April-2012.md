@@ -1,5 +1,9 @@
 # Austin, April 2012
 
+## Transport
+
+[Capital Metro 100](http://www.capmetro.org/riding/current_schedules/MAPS/RT100_SB.PDF) is 1USD from AUS to downtown.
+
 ## Accommodation
 
 * [The Red House](http://socospaces.com/SoCo/redhouse.html)
