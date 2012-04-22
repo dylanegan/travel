@@ -23,6 +23,7 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 * [Maiya's Restaurant](http://www.maiyasrestaurant.com/)
 * [Marfa Table](http://www.marfatable.com/)
 * [Miniature Rooster](http://www.miniaturerooster.com/)
+* [Museum of Electronic Wonders and Late Night Grilled Cheese Parlour](http://www.flickr.com/photos/foodshark/sets/72157624979622685/)
 * [Pizza Foundation](http://www.pizzafoundation.com/)
 * [Squeeze Marfa](http://www.squeezemarfa.com/)
 
