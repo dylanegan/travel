@@ -41,5 +41,7 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 * [Alpine, TX](http://www.alpinetexas.com/)
 * [Big Bend National Park](http://www.nps.gov/bibe/index.htm)
 * [The Chinati Foundation](http://www.chinati.org/)
+* [Marfa Ballroom](http://ballroommarfa.org/)
 * [Marfa Lights](http://en.wikipedia.org/wiki/Marfa_lights)
 * [McDonald Observatory](http://mcdonaldobservatory.org/)
+* [Prada Marfa](http://en.wikipedia.org/wiki/Prada_Marfa)
