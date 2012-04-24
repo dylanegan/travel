@@ -10,7 +10,7 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 * ~~[El Cosmico](http://www.elcosmico.com/)~~
 * ~~[The Hotel Paisano](http://www.hotelpaisano.com/)~~
 * ~~[Thunderbird](http://thunderbirdmarfa.com/)~~
-* [VRBO 393337](http://www.vrbo.com/393337)
+* ~~[VRBO 393337](http://www.vrbo.com/393337)~~
 
 ## Dining
 
