@@ -20,3 +20,5 @@
 * [Pool Cafe](http://www.mandarinoriental.com/lasvegas/dining/pool_cafe/)
 
 ## Activities
+
+* [Cirque du Soleil](http://www.cirquedusoleil.com/en/home.aspx#/en/home/shows/americas/usa/nevada/las-vegas.aspx)
