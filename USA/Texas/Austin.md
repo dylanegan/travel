@@ -27,7 +27,7 @@
 
 * ~~[Congress Avenue Bridge Bats](http://www.batcon.org/index.php/get-involved/visit-a-bat-location/congress-avenue-bridge/subcategory/51.html)~~
 
-## [Photo](http://www.flickr.com/photos/dylane/sets/72157629554029370/)
+## [Photos](http://www.flickr.com/photos/dylane/sets/72157629554029370/)
 
 ![](http://farm8.staticflickr.com/7088/7110116083_533c746695_m.jpg)
 ![](http://farm8.staticflickr.com/7184/7111168115_619b54de7a_m.jpg)
