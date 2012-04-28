@@ -1,6 +1,6 @@
 # Texas
 
-* Austin
+* [Austin](https://github.com/dylanegan/travel/blob/master/USA/Texas/Austin.md)
 * Marfa
 
 ## Activities
