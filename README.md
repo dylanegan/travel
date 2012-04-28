@@ -3,6 +3,7 @@
 <a href="/dylanegan/travel/fork_select" class="minibutton btn-fork" rel="facebox nofollow">Help me</a> plan the following;
 
 * [Marfa, TX, April 2012](https://github.com/dylanegan/travel/blob/master/USA/Texas/Marfa-April-2012.md)
+* [Las Vegas, NV, May 2012](https://github.com/dylanegan/travel/blob/master/USA/Nevada/Las-Vegas-May-2012.md)
 
 - - -
 
