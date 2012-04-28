@@ -1,4 +1,4 @@
-# Austin, April 2012
+# Austin
 
 ## Transport
 

@@ -1,4 +1,4 @@
-# Miami, April 2012
+# Miami
 
 ## Accommodation
 
