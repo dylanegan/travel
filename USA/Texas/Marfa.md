@@ -47,3 +47,9 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 * ~~[Marfa Lights](http://en.wikipedia.org/wiki/Marfa_lights)~~
 * [McDonald Observatory](http://mcdonaldobservatory.org/)
 * [Prada Marfa](http://en.wikipedia.org/wiki/Prada_Marfa)
+
+## [Photos](http://www.flickr.com/photos/dylane/sets/72157629563363858/)
+
+![](http://farm8.staticflickr.com/7092/6973071118_b27903f27d_m.jpg)
+![](http://farm8.staticflickr.com/7100/6976924152_c035050e5f_m.jpg)
+![](http://farm8.staticflickr.com/7088/7125801511_2689788b8e_m.jpg)
