@@ -16,22 +16,22 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 
 ### Budget
 
-* [Tacos del Norte](http://travel.nytimes.com/travel/guides/north-america/united-states/texas/marfa/77323/tacos-del-norte/restaurant-detail.html)
+* ~~[Tacos del Norte](http://travel.nytimes.com/travel/guides/north-america/united-states/texas/marfa/77323/tacos-del-norte/restaurant-detail.html)~~
 
 ### Good
 
-* [Austin St Cafe](http://www.austinstreetcafe.com/)
-* [Food Shark](http://www.foodsharkmarfa.com/)
-* [Maiya's Restaurant](http://www.maiyasrestaurant.com/)
-* [Marfa Table](http://www.marfatable.com/)
-* [Miniature Rooster](http://www.miniaturerooster.com/)
+* ~~[Austin St Cafe](http://www.austinstreetcafe.com/)~~
+* ~~[Food Shark](http://www.foodsharkmarfa.com/)~~
+* ~~[Marfa Table](http://www.marfatable.com/)~~
+* ~~[Miniature Rooster](http://www.miniaturerooster.com/)~~
 * [Museum of Electronic Wonders and Late Night Grilled Cheese Parlour](http://www.flickr.com/photos/foodshark/sets/72157624979622685/)
-* [Pizza Foundation](http://www.pizzafoundation.com/)
+* ~~[Pizza Foundation](http://www.pizzafoundation.com/)~~
 * [Squeeze Marfa](http://www.squeezemarfa.com/)
 
 ### Fine
 
 * [Cochineal](http://cochinealmarfa.com/)
+* [Maiya's Restaurant](http://www.maiyasrestaurant.com/)
 
 ## Drinking
 
@@ -43,7 +43,7 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 * [Alpine, TX](http://www.alpinetexas.com/)
 * [Big Bend National Park](http://www.nps.gov/bibe/index.htm)
 * [The Chinati Foundation](http://www.chinati.org/)
-* [Marfa Ballroom](http://ballroommarfa.org/)
-* [Marfa Lights](http://en.wikipedia.org/wiki/Marfa_lights)
+* ~~[Marfa Ballroom](http://ballroommarfa.org/)~~
+* ~~[Marfa Lights](http://en.wikipedia.org/wiki/Marfa_lights)~~
 * [McDonald Observatory](http://mcdonaldobservatory.org/)
 * [Prada Marfa](http://en.wikipedia.org/wiki/Prada_Marfa)
