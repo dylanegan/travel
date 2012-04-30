@@ -35,3 +35,4 @@
 ## Activities
 
 * [Cirque du Soleil](http://www.cirquedusoleil.com/en/home.aspx#/en/home/shows/americas/usa/nevada/las-vegas.aspx)
+* [Pinball Hall of Fame](http://www.pinballmuseum.org/)
