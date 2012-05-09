@@ -13,7 +13,7 @@
 ### Good
 
 * [Nobu](http://www.noburestaurants.com/las-vegas/)
-* [P~~ool Cafe](http://www.mandarinoriental.com/lasvegas/dining/pool_cafe/)
+* [Pool Cafe](http://www.mandarinoriental.com/lasvegas/dining/pool_cafe/)
 * [Shibuya](http://www.mgmgrand.com/restaurants/shibuya-japanese-restaurant.aspx)
 
 ### Fine
