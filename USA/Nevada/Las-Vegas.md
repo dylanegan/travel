@@ -15,6 +15,7 @@
 * [Nobu](http://www.noburestaurants.com/las-vegas/)
 * [Pool Cafe](http://www.mandarinoriental.com/lasvegas/dining/pool_cafe/)
 * [Shibuya](http://www.mgmgrand.com/restaurants/shibuya-japanese-restaurant.aspx)
+* [Wolfgang Puck Bar & Grill](http://www.mgmgrand.com/restaurants/wolfgang-grill-bar-restaurant.aspx)
 
 ### Fine
 
