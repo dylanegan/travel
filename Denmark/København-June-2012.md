@@ -14,6 +14,8 @@
 
 ### Good
 
+* [Radio](http://restaurantradio.dk/english.asp)
+
 ### Fine
 
 * [noma](http://www.noma.dk/main.php?lang=en)
