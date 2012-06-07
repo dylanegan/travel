@@ -22,6 +22,7 @@
 
 ## Drinking
 
+* [Mikkeller](http://mikkeller.dk/)
 * [Nørrebro Bryghus](http://noerrebrobryghus.dk/21/)
 
 ## Activities
