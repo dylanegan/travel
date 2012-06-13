@@ -1,4 +1,4 @@
-# [København, June 2012](http://en.wikipedia.org/wiki/K%C3%B8benhavn)
+# [København](http://en.wikipedia.org/wiki/K%C3%B8benhavn)
 
 ## Transport
 
