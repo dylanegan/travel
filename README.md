@@ -8,7 +8,6 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 
 <a href="/dylanegan/travel/fork_select" class="minibutton btn-fork" rel="facebox nofollow">Help me</a> plan the following;
 
-* [København, Denmark, June 2012](https://github.com/dylanegan/travel/blob/master/Denmark/København-June-2012.md)
 * Stockholm, Sweden, June 2012
 * Göteborg, Sweden, June 2012
 * Thurso, Scotland, June 2012
