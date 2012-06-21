@@ -4,7 +4,7 @@
 
 ## Accommodation
 
-* [Prestonfield House Hotel](www.prestonfield.com)
+* [Prestonfield House Hotel](http://www.prestonfield.com)
 
 ## Dining
 
