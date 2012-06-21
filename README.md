@@ -12,7 +12,7 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 * [Göteborg, Sweden, June 2012](https://github.com/dylanegan/travel/blob/master/Sweden/Go%CC%88teborg-June-2012.md)
 * Thurso, Scotland, June 2012
 * Islay, Scotland, June 2012
-* Edinburgh, Scotland, June 2012
+* [Edinburgh, Scotland, June 2012](https://github.com/dylanegan/travel/blob/master/Scotland/Edinburgh-June-2012.md)
 * Berlin, Germany, July 2012
 
 - - -
