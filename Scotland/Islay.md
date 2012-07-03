@@ -29,6 +29,6 @@
 
 ## [Photos](http://www.flickr.com/photos/dylane/sets/72157630403466498/)
 
-* [![](http://farm8.staticflickr.com/7272/7442851066_03cfbba311_m.jpg)](http://www.flickr.com/photos/dylane/7442851066/)
-* [![](http://farm8.staticflickr.com/7269/7457012342_51b43d8fa1_m.jpg)](http://www.flickr.com/photos/dylane/7457012342/)
-* [![](http://farm9.staticflickr.com/8018/7448703754_33285265ae_m.jpg)](http://www.flickr.com/photos/dylane/7448703754/)
+[![](http://farm8.staticflickr.com/7272/7442851066_03cfbba311_m.jpg)](http://www.flickr.com/photos/dylane/7442851066/)
+[![](http://farm8.staticflickr.com/7269/7457012342_51b43d8fa1_m.jpg)](http://www.flickr.com/photos/dylane/7457012342/)
+[![](http://farm9.staticflickr.com/8018/7448703754_33285265ae_m.jpg)](http://www.flickr.com/photos/dylane/7448703754/)
