@@ -10,7 +10,7 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 
 * [Praha, Czech Republic, July 2012](https://github.com/dylanegan/travel/blob/master/Czech%20Republic/Praha-July-2012.md)
 * Zurich, Switzerland, July 2012
-* [München, TBD](https://github.com/dylanegan/travel/blob/master/Germany/M%C3%BCnchen-TBD.md)
+* [München, TBD](https://github.com/dylanegan/travel/blob/master/Germany/Mu%CC%88nchen-TBD.md)
 
 - - -
 
