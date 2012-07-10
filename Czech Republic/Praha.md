@@ -35,7 +35,7 @@ A [VW Passat Variant](http://germany.europcar.de/fleetguide/), driving from Berl
 
 * [Castle](http://en.wikipedia.org/wiki/Prague_Castle) - including the Royal Garden.
 * [Charles Bridge](http://en.wikipedia.org/wiki/Charles_Bridge)
-* [Old Town](http://en.wikipedia.org/wiki/Old_Town_(Prague))
+* [Old Town](http://en.wikipedia.org/wiki/Old_Town_\(Prague\))
 * [St. Vitus Cathedral](http://en.wikipedia.org/wiki/St._Vitus_Cathedral)
 * [Strahov Monastery](http://en.wikipedia.org/wiki/Strahov_Monastery)
 
