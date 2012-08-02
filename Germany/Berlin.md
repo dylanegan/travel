@@ -6,30 +6,30 @@
 
 ## Accommodation
 
+## Café
+
+* [The Barn](http://thebarn.de/)
+* ~~[Bateau Ivre](http://www.qype.co.uk/place/14933-Bistro-Bar-Bateau-Ivre-Berlin)~~
+* [Café CK](http://cafeckberlin.com/)
+* [Five Elephant](http://www.fiveelephant.com)
+
 ## Dining
 
-### Fast
+### Budget
 
 * [Ali Baba](http://libanesischerimbissfriedrichshain.u-city.org)
 * ~~[Babanbe](http://babanbe.com)~~
-* [Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)
+* ~~[Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)~~
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
 * [Dirty South](https://www.facebook.com/dirtysouthberlin)
 * [Hokey Pokey](http://www.hokey-pokey.de)
-* [Mustafas](http://mustafas.de/)
+* ~~[Mustafas](http://mustafas.de/)~~
 * [Nil](http://www.nil-imbiss.de/en/index.html)
-* [Pizza Nostra](http://www.qype.com/place/193109-Pizzeria-Pizza-Nostra-Berlin)
+* ~~[Pizza Nostra](http://www.qype.com/place/193109-Pizzeria-Pizza-Nostra-Berlin)~~
 * ~~[Sala da Mangiare](http://saladamangiare.de)~~
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
 * ~~[Wiener Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
-
-### Café
-
-* [The Barn](http://thebarn.de/)
-* [Bateau Ivre](http://www.qype.co.uk/place/14933-Bistro-Bar-Bateau-Ivre-Berlin)
-* [Café CK](http://cafeckberlin.com/)
-* [Five Elephant](http://www.fiveelephant.com)
 
 ### Good
 
@@ -60,13 +60,14 @@
 ## Drinking
 
 * [Absinthe Depot](http://www.erstesabsinthdepotberlin.de)
-* [Becketts](http://www.becketts-kopf.de)
+* [Becketts Kopf](http://www.becketts-kopf.de)
 * [Buck & Breck](http://buckandbreck.com) _had a slightly annoying experience, but will give it a third try_
 * [Club Der Visionäre](http://clubdervisionaere.com)
+* ~~[Edelweiss](http://www.edelweiss36.com/)~~
 * [Green Door](http://greendoor.de)
-* [Finest Whisky](http://www.finestwhisky.de)
-* ~~[ManuTeeFaktur](https://www.facebook.com/ManuTeeFaktur)~~
-* [Whisky & Cigars](http://whisky-cigars.de)
+* ~~[Madame Claude](http://madameclaude.de/)~~
+* [Prater Biergarten](http://www.pratergarten.de/d/biergarten.php4)
+* ~~[Zyankali](http://www.zyankali.de/)~~
 
 ## Shopping
 
@@ -76,8 +77,10 @@
 * [Depot2](http://depot2.de)
 * ~~[Dong Xuan Center](http://www.findingberlin.com/dong-xuan-center/)~~
 * ~~[feinschlicht](http://www.feinschlicht.de)~~ _Wir machen Frucht- und Gemüseaufstriche, Chutneys und mehr ..._
+* [Finest Whisky](http://www.finestwhisky.de)
 * [Fussgarage](http://www.fussgarage.de)
 * ~~[Jünemann's Pantoffel Eck](http://www.pantoffeleck.de/shop/)~~
+* ~~[ManuTeeFaktur](https://www.facebook.com/ManuTeeFaktur)~~
 * ~~[Mehlstübchen](http://www.mehlstuebchen.de)~~
 * ~~[Minga Berlin Apparel](http://www.mingaberlin.com)
 * ~~[Wildfleischhandel](http://www.wildfleisch-berlin.de/index.html)~~
