@@ -8,22 +8,33 @@
 
 ## Dining
 
-### Budget
+### Fast
 
 * [Ali Baba](http://libanesischerimbissfriedrichshain.u-city.org)
 * ~~[Babanbe](http://babanbe.com)~~
+* [Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
 * [Dirty South](https://www.facebook.com/dirtysouthberlin)
 * [Hokey Pokey](http://www.hokey-pokey.de)
+* [Mustafas](http://mustafas.de/)
 * [Nil](http://www.nil-imbiss.de/en/index.html)
+* [Pizza Nostra](http://www.qype.com/place/193109-Pizzeria-Pizza-Nostra-Berlin)
 * ~~[Sala da Mangiare](http://saladamangiare.de)~~
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
-* ~~[Weiner Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
+* ~~[Wiener Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
+
+### Café
+
+* [The Barn](http://thebarn.de/)
+* [Bateau Ivre](http://www.qype.co.uk/place/14933-Bistro-Bar-Bateau-Ivre-Berlin)
+* [Café CK](http://cafeckberlin.com/)
+* [Five Elephant](http://www.fiveelephant.com)
 
 ### Good
 
 * ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
+* [The Bird](http://www.thebirdinberlin.com/)
 * ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
 * ~~[Einklang](http://www.einklang-feinkost.de)~~
@@ -36,6 +47,7 @@
 * [Michelberger Mittagstisch](http://www.michelbergerhotel.com/#/de/restaurant)
 * ~~[Mogg & Melzer](http://www.moggandmelzer.com)~~
 * [Monsieur Vuong](http://www.monsieurvuong.de)
+* [Prater Gaststätte](http://www.pratergarten.de/d/gaststaette.php4)
 * [Renger Patzsch](http://http://www.renger-patzsch.com)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
 * ~~[susuru](http://www.susuru.de)~~
