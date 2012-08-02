@@ -58,13 +58,17 @@
 ## Drinking
 
 * [Absinthe Depot](http://www.erstesabsinthdepotberlin.de)
-* [Becketts](http://www.becketts-kopf.de)
-* [Buck & Breck](http://buckandbreck.com) _had a slightly annoying experience, but will give it a third try_
+* [Becketts Kopf](http://www.becketts-kopf.de)
+* [Buck & Breck](http://buckandbreck.com)
 * [Club Der Visionäre](http://clubdervisionaere.com)
-* [Green Door](http://greendoor.de)
+* [Edelweiss](http://www.edelweiss36.com/)
 * [Finest Whisky](http://www.finestwhisky.de)
+* [Green Door](http://greendoor.de)
+* [Madame Claude](http://madameclaude.de/)
 * ~~[ManuTeeFaktur](https://www.facebook.com/ManuTeeFaktur)~~
+* [Prater Biergarten](http://www.pratergarten.de/d/biergarten.php4)
 * [Whisky & Cigars](http://whisky-cigars.de)
+* [Zyankali](http://www.zyankali.de/)
 
 ## Shopping
 
