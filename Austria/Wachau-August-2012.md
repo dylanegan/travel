@@ -16,4 +16,6 @@
 
 ## Activities
 
+* [Burgruine Aggstein](http://en.wikipedia.org/wiki/Burgruine_Aggstein)
+
 ## Photos
