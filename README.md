@@ -1,4 +1,6 @@
-# Travel
+[![Mt. Fuji](http://farm3.staticflickr.com/2564/3764089529_73fa703e79_n.jpg)](http://www.flickr.com/photos/dylane/3764089529/)
+
+[![Build Status](https://secure.travis-ci.org/dylanegan/travel.png?branch=master)](http://travis-ci.org/dylanegan/travel)
 
 An easy way for me to keep track of things I've done and to help plan things I'll do.
 
@@ -11,6 +13,3 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 * Zurich, Switzerland, July 2012
 * [München, TBD](https://github.com/dylanegan/travel/blob/master/Germany/Mu%CC%88nchen-TBD.md)
 
-- - -
-
-[![Mt. Fuji](http://farm3.staticflickr.com/2564/3764089529_73fa703e79_n.jpg)](http://www.flickr.com/photos/dylane/3764089529/)
