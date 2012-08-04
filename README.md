@@ -10,6 +10,8 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 
 <a href="/dylanegan/travel/fork_select" class="minibutton btn-fork" rel="facebox nofollow">Help me</a> plan the following;
 
-* Zurich, Switzerland, July 2012
-* [München, TBD](https://github.com/dylanegan/travel/blob/master/Germany/Mu%CC%88nchen-TBD.md)
+* [Salzburg, Austria, August 2012](https://github.com/dylanegan/travel/blob/master/Austria/Salzburg-August-2012.md)
+* [Wachau, Austria, August 2012](https://github.com/dylanegan/travel/blob/master/Austria/Wachau-August-2012.md)
+* [München, Germany, TBD](https://github.com/dylanegan/travel/blob/master/Germany/Mu%CC%88nchen-TBD.md)
+* Zurich, Switzerland, TBD
 
