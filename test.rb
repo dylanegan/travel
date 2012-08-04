@@ -6,13 +6,14 @@ Dir['*/**/*.md'].each do |destination|
     next unless line[/^\* /]
 
     total += 1
-    unvisited += 1 if line[/~~/]
+    unvisited += 1 if line[/~~/] || destination[/TBD|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec/]
   end
 end
 
-if (unvisited / total * 100) > 50.0
-  puts "The only thing that can keep you from succeeding is yourself."
+percentage = (unvisited / total * 100)
+if percentage > 50.0
+  puts "The only thing that can keep you from succeeding is yourself. (#{"%.2f" % percentage}% unvisited)"
   exit 1
 end
 
-puts "To travel is to discover that everyone is wrong about other countries."
+puts "To travel is to discover that everyone is wrong about other countries. (#{"%.2f" % percentage}% unvisited)"
