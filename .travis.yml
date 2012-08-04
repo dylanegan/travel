@@ -1,0 +1,6 @@
+language: ruby
+
+rvm:
+  - rbx-19mode
+
+script: ruby test.rb
