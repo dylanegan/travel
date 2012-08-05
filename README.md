@@ -13,6 +13,6 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 * [Salzburg, Austria, August 2012](https://github.com/dylanegan/travel/blob/master/Austria/Salzburg-August-2012.md)
 * [Wachau, Austria, August 2012](https://github.com/dylanegan/travel/blob/master/Austria/Wachau-August-2012.md)
 * [Tokyo, Japan, September 2012](https://github.com/dylanegan/travel/blob/master/Japan/Kanto/Tokyo.md)
-* [Sapporo, Japan, September 2012](https://github.com/dylanegan/travel/blob/master/Japan/Hokkaidō/Sapporo-September-2012.md)
+* [Sapporo, Japan, September 2012](https://github.com/dylanegan/travel/blob/master/Japan/Hokkaido%CC%84/Sapporo-September-2012.md)
 * [München, Germany, TBD](https://github.com/dylanegan/travel/blob/master/Germany/Mu%CC%88nchen-TBD.md)
 * Zurich, Switzerland, TBD
