@@ -16,6 +16,8 @@
 
 ### Good
 
+* ~~[The Butcher](http://www.the-butcher.com)~~ *Reservation possible through Ben from Door 74*
+
 ### Fine
 
 * [In De Keuken](http://www.indekeuken.com/)
@@ -26,6 +28,8 @@
 
 * [Brouwerij 't IJ'](http://www.brouwerijhetij.nl/)
 * [Door 74](http://www.door-74.com/)
+* ~~[HPS](http://www.hpsamsterdam.com)~~
+* ~~[Vesper Bar](http://www.vesperbar.nl)~~
 * [Whiskycafé L&B](http://www.whiskyproeverijen.nl/en_cafe.htm)
 
 ## Activities
