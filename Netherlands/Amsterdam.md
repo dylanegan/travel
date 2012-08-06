@@ -23,6 +23,7 @@
 * [In De Keuken](http://www.indekeuken.com/)
 * [Bussia](http://www.bussia.nl/)
 * [Restaurant Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
+* [Restaurant de Kas](http://www.restaurantdekas.nl)
 
 ## Drinking
 
