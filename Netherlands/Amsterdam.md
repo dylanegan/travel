@@ -17,12 +17,15 @@
 ### Good
 
 * ~~[The Butcher](http://www.the-butcher.com)~~ *Reservation possible through Ben from Door 74*
+* [Bar Spek](http://www.barspek.nl)
 
 ### Fine
 
 * [In De Keuken](http://www.indekeuken.com/)
 * [Bussia](http://www.bussia.nl/)
 * [Restaurant Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
+* [Restaurant de Kas](http://www.restaurantdekas.nl)
+* ~~[Yamazato](http://www.yamazato.nl)~~ *Closed during last visit*
 
 ## Drinking
 
