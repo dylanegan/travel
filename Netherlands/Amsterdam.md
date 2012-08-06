@@ -17,6 +17,7 @@
 ### Good
 
 * ~~[The Butcher](http://www.the-butcher.com)~~ *Reservation possible through Ben from Door 74*
+* [Bar Spek](http://www.barspek.nl)
 
 ### Fine
 
