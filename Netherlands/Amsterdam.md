@@ -25,6 +25,7 @@
 * [Bussia](http://www.bussia.nl/)
 * [Restaurant Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
 * [Restaurant de Kas](http://www.restaurantdekas.nl)
+* ~~[Yamazato](http://www.yamazato.nl)~~ *Closed during last visit*
 
 ## Drinking
 
