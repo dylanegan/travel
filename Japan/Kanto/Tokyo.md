@@ -4,6 +4,8 @@
 
 ## Accommodation
 
+* [Hotel Edoya](http://www.hoteledoya.com)
+
 ## Dining
 
 ### Budget
