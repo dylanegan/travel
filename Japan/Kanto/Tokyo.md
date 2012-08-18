@@ -29,4 +29,15 @@
 
 ## Activities
 
+* [Akihabara](http://en.wikipedia.org/wiki/Akihabara)
+* [Ebisu](http://en.wikipedia.org/wiki/Ebisu,_Tokyo)
+  * [Museum of Yebisu Beer](http://www.sapporoholdings.jp/english/guide/yebisu/)
+* [Harajuku](http://en.wikipedia.org/wiki/Harajuku)
+  * ~~Sunday Impromptu Concerts~~
+  * ~~Walk to Shibuya via Takeshita-dōri~~
+* [Meiji Jingu Shrine](http://www.meijijingu.or.jp/english/)
+* [Shibuya](http://en.wikipedia.org/wiki/Shibuya)
+* [Ueno Park](http://en.wikipedia.org/wiki/Ueno_Park)
+* [Yoyogi Park](http://en.wikipedia.org/wiki/Yoyogi_Park)
+
 ## Photos
