@@ -17,6 +17,7 @@
 
 ### Good
 
+* ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
 * ~~[Fischsuppen](https://www.facebook.com/Fischschuppen)~~
