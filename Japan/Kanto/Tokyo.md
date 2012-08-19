@@ -31,7 +31,7 @@
 
 * [Akihabara](http://en.wikipedia.org/wiki/Akihabara)
 * [Ebisu](http://en.wikipedia.org/wiki/Ebisu,_Tokyo)
-  * [Museum of Yebisu Beer](http://www.sapporoholdings.jp/english/guide/yebisu/)
+  * ~~[Museum of Yebisu Beer](http://www.sapporoholdings.jp/english/guide/yebisu/)~~
 * [Harajuku](http://en.wikipedia.org/wiki/Harajuku)
   * ~~Sunday Impromptu Concerts~~
   * ~~Walk to Shibuya via Takeshita-dōri~~
