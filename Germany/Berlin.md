@@ -21,6 +21,7 @@
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
 * ~~[Fischsuppen](https://www.facebook.com/Fischschuppen)~~
+* ~~[Luchs](http://www.lux-eleven.com/restaurant--bar/restaurant-luchs)~~
 * [Monsieur Vuong](http://www.monsieurvuong.de)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
 * ~~[susuru](http://www.susuru.de)~~
