@@ -10,10 +10,16 @@
 
 ### Budget
 
+* [Kanda Yabu Soba](http://www.yabusoba.net)
+
 ### Good
 
+* ~~[Cujorl](http://cujorl.jp)~~
 * [かくれんぼ (kakurenbo)](http://goo.gl/maps/o4ySP)
+* ~~Kanemasu~~ _macho cuisine_
 * [Savoy](http://www.savoy.vc)
+* [Sho-chu Dining Dan](http://cafs.jp/web/restaurant/dan/index.html)
+* [Tempura Tsunahachi](http://www.tunahachi.co.jp/en/)
 
 ### Fine
 
@@ -24,7 +30,6 @@
 
 ## Drinking
 
-* [Logensitz](http://www.bar-kansai.net/shop_bar.php?data=1)
 * [PSY](http://www.bar-psy.com)
 
 ## Activities
