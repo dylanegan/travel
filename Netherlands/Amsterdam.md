@@ -17,6 +17,7 @@
 ### Good
 
 * ~~[The Butcher](http://www.the-butcher.com)~~ *Reservation possible through Ben from Door 74*
+* ~~[Trouw Amsterdam](http://trouwamsterdam.nl)~~ _I have been before, but it has changed since_
 
 ### Fine
 
