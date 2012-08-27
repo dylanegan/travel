@@ -13,6 +13,8 @@
 * [Ali Baba](http://libanesischerimbissfriedrichshain.u-city.org)
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
 * [Hokey Pokey](http://www.hokey-pokey.de)
+* [Nil](http://www.nil-imbiss.de/en/index.html)
+* [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
 
 ### Good
@@ -20,7 +22,7 @@
 * ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
-* ~~[Fischsuppen](https://www.facebook.com/Fischschuppen)~~
+* [Fischsuppen](https://www.facebook.com/Fischschuppen)
 * ~~[Luchs](http://www.lux-eleven.com/restaurant--bar/restaurant-luchs)~~
 * [Monsieur Vuong](http://www.monsieurvuong.de)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
@@ -33,7 +35,7 @@
 
 * [Absinthe Depot](http://www.erstesabsinthdepotberlin.de)
 * [Becketts](http://www.becketts-kopf.de)
-* [Buck & Breck](http://buckandbreck.com)
+* [Buck & Breck](http://buckandbreck.com) _had a slightly annoying experience, but will give it a third try_
 * [Club Der Visionäre](http://clubdervisionaere.com)
 * ~~[Green Door](http://greendoor.de)~~
 * [Whisky & Cigars](http://whisky-cigars.de)
