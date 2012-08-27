@@ -32,4 +32,9 @@
 
 ## Activities
 
+* [Asahiyama Park](http://www.welcome.city.sapporo.jp/english/sites/asahiyama.html)
+* [Hokkaido Pioneer Village](http://www.kaitaku.or.jp/info/info.htm)
+* [Jozankei](http://jozankei.jp/en/)
+* [Mt. Moiwa Ropeway](http://sapporo-dc.co.jp/eng/moiwa/index.html)
+
 ## Photos
