@@ -18,9 +18,17 @@
 
 ### Good
 
+* [Hiraku](http://www.k2.dion.ne.jp/~hiraku/index.html) _izakaya specialising in oysters_
+* [Sapporo Beer Garden](http://www.sapporo-bier-garten.jp/foreign/english.php)
+
 ### Fine
 
+* [Nukumi](http://r.gnavi.co.jp/h203501/lang/en/)
+* [Sushi Tanabe](http://sushi-tanabe.com)
+
 ## Drinking
+
+* [Sapporo Beer Garden](http://www.sapporo-bier-garten.jp/foreign/english.php)
 
 ## Activities
 
