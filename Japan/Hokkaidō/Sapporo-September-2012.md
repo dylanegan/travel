@@ -12,6 +12,8 @@
 
 > Soup Curry is fantastic and cheap. _@adelcambre_
 
+> Quality of sushi at sushi trains is pretty good. _Fujiko_
+
 ### Budget
 
 * [Hiri Hiri](http://hirihiri.jp/top.html) _for soup curry_
@@ -20,6 +22,7 @@
 
 * [Hiraku](http://www.k2.dion.ne.jp/~hiraku/index.html) _izakaya specialising in oysters_
 * [Sapporo Beer Garden](http://www.sapporo-bier-garten.jp/foreign/english.php)
+* [Sushi Hanamaru](http://www.sushi-hanamaru.com) _sushi train_
 
 ### Fine
 
@@ -36,5 +39,6 @@
 * [Hokkaido Pioneer Village](http://www.kaitaku.or.jp/info/info.htm)
 * [Jozankei](http://jozankei.jp/en/)
 * [Mt. Moiwa Ropeway](http://sapporo-dc.co.jp/eng/moiwa/index.html)
+* [Odori Park](http://en.wikipedia.org/wiki/Odori_Park)
 
 ## Photos
