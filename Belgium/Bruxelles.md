@@ -15,6 +15,7 @@
 ### Good
 
 * [Toucan Sur Mer](http://www.toucanbrasserie.com/toucansurmer-en/index.html)
+* [Le Canne en Ville](http://www.lacanneenville.be)
 
 ### Fine
 
