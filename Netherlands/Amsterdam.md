@@ -16,15 +16,16 @@
 
 ### Good
 
-* ~~[The Butcher](http://www.the-butcher.com)~~ *Reservation possible through Ben from Door 74*
+* [Bussia](http://www.bussia.nl/)
+* [Restaurant de Kas](http://www.restaurantdekas.nl)
+* ~~[The Butcher](http://www.the-butcher.com)~~ _reservation possible through Ben from Door 74_
 * ~~[Trouw Amsterdam](http://trouwamsterdam.nl)~~ _I have been before, but it has changed since_
+* [Wilde Zwijnen](http://wildezwijnen.com)
 
 ### Fine
 
 * [In De Keuken](http://www.indekeuken.com/)
-* [Bussia](http://www.bussia.nl/)
 * [Restaurant Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
-* [Restaurant de Kas](http://www.restaurantdekas.nl)
 * ~~[Yamazato](http://www.yamazato.nl)~~ *Closed during last visit*
 
 ## Drinking
