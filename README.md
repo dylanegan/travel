@@ -12,6 +12,7 @@ A ~~strikethrough~~ denotes that I didn't get to it, not that it was terrible. N
 
 * [Tokyo, Japan, September 2012](https://github.com/dylanegan/travel/blob/master/Japan/Kanto/Tokyo.md)
 * [Sapporo, Japan, September 2012](https://github.com/dylanegan/travel/blob/master/Japan/Hokkaido%CC%84/Sapporo-September-2012.md)
+* [Otaru, Japan, September 2012](https://github.com/dylanegan/travel/blob/master/Japan/Hokkaido%CC%84/Otaru-September-2012.md)
 * [Montpellier, France, October 2012](https://github.com/dylanegan/travel/blob/master/France/Montpellier-October-2012.md)
 * [Belfast, Northern Ireland, November 2012](https://github.com/dylanegan/travel/blob/master/Northern%20Ireland/Belfast-November-2012.md)
 * [München, Germany, TBD](https://github.com/dylanegan/travel/blob/master/Germany/Mu%CC%88nchen-TBD.md)

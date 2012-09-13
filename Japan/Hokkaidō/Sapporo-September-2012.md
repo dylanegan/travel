@@ -31,6 +31,9 @@
 
 ## Drinking
 
+* [BAR YAMAZAKI](http://www.bar-yamazaki.com/english.html)
+* Bar Proof
+* [Premier Cru](http://www.premier-cru.jp)
 * [Sapporo Beer Garden](http://www.sapporo-bier-garten.jp/foreign/english.php)
 
 ## Activities
