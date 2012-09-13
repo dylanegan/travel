@@ -20,6 +20,7 @@
 
 ### Good
 
+* Ajihyakusen
 * [Hiraku](http://www.k2.dion.ne.jp/~hiraku/index.html) _izakaya specialising in oysters_
 * [Sapporo Beer Garden](http://www.sapporo-bier-garten.jp/foreign/english.php)
 * [Sushi Hanamaru](http://www.sushi-hanamaru.com) _sushi train_
