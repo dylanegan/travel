@@ -37,7 +37,8 @@
 * [Becketts](http://www.becketts-kopf.de)
 * [Buck & Breck](http://buckandbreck.com) _had a slightly annoying experience, but will give it a third try_
 * [Club Der Visionäre](http://clubdervisionaere.com)
-* ~~[Green Door](http://greendoor.de)~~
+* [Green Door](http://greendoor.de)
+* [Finest Whisky](http://www.finestwhisky.de)
 * [Whisky & Cigars](http://whisky-cigars.de)
 
 ## Clubbing
