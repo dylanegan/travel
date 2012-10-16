@@ -11,6 +11,7 @@
 ### Budget
 
 * [Ali Baba](http://libanesischerimbissfriedrichshain.u-city.org)
+* ~~[Babanbe](http://babanbe.com)~~
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
 * [Hokey Pokey](http://www.hokey-pokey.de)
 * [Nil](http://www.nil-imbiss.de/en/index.html)
@@ -24,7 +25,9 @@
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
 * [Fischsuppen](https://www.facebook.com/Fischschuppen)
+* ~~[Joris](https://www.facebook.com/JorisBerlin)~~
 * ~~[Luchs](http://www.lux-eleven.com/restaurant--bar/restaurant-luchs)~~
+* ~~[Mogg & Melzer](http://www.moggandmelzer.com)~~
 * [Monsieur Vuong](http://www.monsieurvuong.de)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
 * ~~[susuru](http://www.susuru.de)~~
@@ -40,7 +43,12 @@
 * [Club Der Visionäre](http://clubdervisionaere.com)
 * [Green Door](http://greendoor.de)
 * [Finest Whisky](http://www.finestwhisky.de)
+* ~~[ManuTeeFaktur](https://www.facebook.com/ManuTeeFaktur)~~
 * [Whisky & Cigars](http://whisky-cigars.de)
+
+## Shopping
+
+* ~~[feinschlicht](http://www.feinschlicht.de)~~ _Wir machen Frucht- und Gemüseaufstriche, Chutneys und mehr ..._
 
 ## Clubbing
 
