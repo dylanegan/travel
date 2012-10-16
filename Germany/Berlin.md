@@ -13,6 +13,7 @@
 * [Ali Baba](http://libanesischerimbissfriedrichshain.u-city.org)
 * ~~[Babanbe](http://babanbe.com)~~
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
+* ~~[Dirty South](https://www.facebook.com/dirtysouthberlin)~~
 * [Hokey Pokey](http://www.hokey-pokey.de)
 * [Nil](http://www.nil-imbiss.de/en/index.html)
 * ~~[Sala da Mangiare](http://saladamangiare.de)~~
