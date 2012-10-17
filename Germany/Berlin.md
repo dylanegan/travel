@@ -23,10 +23,13 @@
 ### Good
 
 * ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
+* ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
 * [Fischsuppen](https://www.facebook.com/Fischschuppen)
+* ~~[Grill Royal](http://www.grillroyal.com/)~~
 * ~~[Joris](https://www.facebook.com/JorisBerlin)~~
+* ~~[Katerschmaus](http://www.katerholzig.de/restaurant/)~~
 * ~~[Luchs](http://www.lux-eleven.com/restaurant--bar/restaurant-luchs)~~
 * ~~[Mogg & Melzer](http://www.moggandmelzer.com)~~
 * [Monsieur Vuong](http://www.monsieurvuong.de)
