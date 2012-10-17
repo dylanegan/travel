@@ -33,6 +33,9 @@
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
 * ~~[susuru](http://www.susuru.de)~~
 * [Transit](http://www.transit-restaurants.com)
+* ~~[Grill Royal](http://www.grillroyal.com/)~~
+* ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
+* * ~~[Katerschmaus](http://www.katerholzig.de/restaurant/)~~
 
 ### Fine
 
