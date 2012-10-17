@@ -1,4 +1,4 @@
-# [Montpellier, October 2012](http://en.wikipedia.org/wiki/Montpellier)
+# [Montpellier, TBD](http://en.wikipedia.org/wiki/Montpellier)
 
 ## Transport
 
