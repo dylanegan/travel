@@ -24,12 +24,16 @@
 
 ## Drinking
 
+* [The Alchemist](http://www.thealchemist.uk.com)
 * [Black Dog Ballroom](https://www.facebook.com/BlackDogBallroom)
 * [Cloud 23](http://www.cloud23bar.com)
 * [Corridor](http://www.corridorbar.co.uk)
 * [Hula Bar](http://www.hulabar.co.uk)
 * [Keko Moku](http://www.kekomoku.co.uk)
+* [The Liars Club](http://www.theliarsclub.co.uk)
+* [Mojo](http://www.mojobar.co.uk)
 * [Odd Bar](http://oddbar.co.uk)
+* [Socio](http://sociorehab.com)
 * [Velvet](http://www.velvetmanchester.com/bar)
 
 ## Activities
