@@ -14,6 +14,7 @@
 * [San Carlo Cicchetti](http://www.sancarlocicchetti.co.uk)
 * [Second Floor](http://www.harveynichols.com/restaurants/second-floor-manchester/second-floor-manchester-restaurant)
 * [Southern Eleven](http://www.southern11.co.uk)
+* [The Oast House](http://theoasthouse.uk.com)
 * [The Rose Garden](http://therosegardendidsbury.com)
 * [Teacup](http://teacupandcakes.com)
 * [Yuzu](http://www.yuzumanchester.co.uk)
@@ -27,6 +28,7 @@
 * [The Alchemist](http://www.thealchemist.uk.com)
 * [Black Dog Ballroom](https://www.facebook.com/BlackDogBallroom)
 * [Cloud 23](http://www.cloud23bar.com)
+* Corbieres _juke box_
 * [Corridor](http://www.corridorbar.co.uk)
 * [Hula Bar](http://www.hulabar.co.uk)
 * [Keko Moku](http://www.kekomoku.co.uk)
@@ -34,7 +36,9 @@
 * [Mojo](http://www.mojobar.co.uk)
 * [Odd Bar](http://oddbar.co.uk)
 * [Socio](http://sociorehab.com)
+* [Trof](http://www.trofnq.co.uk)
 * [Velvet](http://www.velvetmanchester.com/bar)
+* [Victorian Chop House Company](http://www.samschophouse.co.uk)
 
 ## Activities
 
