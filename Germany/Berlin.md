@@ -13,7 +13,7 @@
 * [Ali Baba](http://libanesischerimbissfriedrichshain.u-city.org)
 * ~~[Babanbe](http://babanbe.com)~~
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
-* ~~[Dirty South](https://www.facebook.com/dirtysouthberlin)~~
+* [Dirty South](https://www.facebook.com/dirtysouthberlin)
 * [Hokey Pokey](http://www.hokey-pokey.de)
 * [Nil](http://www.nil-imbiss.de/en/index.html)
 * ~~[Sala da Mangiare](http://saladamangiare.de)~~
@@ -25,6 +25,7 @@
 * ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
 * ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
+* ~~[Einklang](http://www.einklang-feinkost.de)
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
 * [Fischsuppen](https://www.facebook.com/Fischschuppen)
 * ~~[Grill Royal](http://www.grillroyal.com/)~~
@@ -52,7 +53,9 @@
 
 ## Shopping
 
+* ~~[Apfelgalerie](http://www.apfelgalerie.de/index.html)~~
 * ~~[feinschlicht](http://www.feinschlicht.de)~~ _Wir machen Frucht- und Gemüseaufstriche, Chutneys und mehr ..._
+* ~~[Wildfleischhandel](http://www.wildfleisch-berlin.de/index.html)~~
 
 ## Clubbing
 
