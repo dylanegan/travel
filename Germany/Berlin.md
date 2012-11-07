@@ -25,7 +25,7 @@
 * ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
 * ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
-* ~~[Einklang](http://www.einklang-feinkost.de)
+* ~~[Einklang](http://www.einklang-feinkost.de)~~
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
 * [Fischsuppen](https://www.facebook.com/Fischschuppen)
 * ~~[Grill Royal](http://www.grillroyal.com/)~~
