@@ -82,4 +82,6 @@
 
 ## Activities
 
+* ~~[Home Opera](http://www.homeopera.net)~~
+
 ## Photos
