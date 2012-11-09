@@ -33,6 +33,7 @@
 * ~~[Joris](https://www.facebook.com/JorisBerlin)~~
 * ~~[Katerschmaus](http://www.katerholzig.de/restaurant/)~~
 * ~~[Luchs](http://www.lux-eleven.com/restaurant--bar/restaurant-luchs)~~
+* [Michelberger Mittagstisch](http://www.michelbergerhotel.com/#/de/restaurant)
 * ~~[Mogg & Melzer](http://www.moggandmelzer.com)~~
 * [Monsieur Vuong](http://www.monsieurvuong.de)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
