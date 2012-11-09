@@ -19,6 +19,7 @@
 * ~~[Sala da Mangiare](http://saladamangiare.de)~~
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
+* ~~[Weiner Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
 
 ### Good
 
