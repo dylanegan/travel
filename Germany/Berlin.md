@@ -58,7 +58,9 @@
 * ~~[5 CUPS and some sugar](http://www.5cups.de)~~
 * ~~[Apfelgalerie](http://www.apfelgalerie.de/index.html)~~
 * ~~[Ben und Bellchen](http://www.ben-und-bellchen.de)~~
+* ~~[Dong Xuan Center](http://www.findingberlin.com/dong-xuan-center/)~~
 * ~~[feinschlicht](http://www.feinschlicht.de)~~ _Wir machen Frucht- und Gemüseaufstriche, Chutneys und mehr ..._
+* ~~[Jünemann's Pantoffel Eck](http://www.pantoffeleck.de/shop/)~~
 * ~~[Wildfleischhandel](http://www.wildfleisch-berlin.de/index.html)~~
 
 ## Clubbing
