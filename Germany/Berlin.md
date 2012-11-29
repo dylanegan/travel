@@ -36,6 +36,7 @@
 * [Michelberger Mittagstisch](http://www.michelbergerhotel.com/#/de/restaurant)
 * ~~[Mogg & Melzer](http://www.moggandmelzer.com)~~
 * [Monsieur Vuong](http://www.monsieurvuong.de)
+* [Renger Patzsch](http://http://www.renger-patzsch.com)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
 * ~~[susuru](http://www.susuru.de)~~
 * [Transit](http://www.transit-restaurants.com)

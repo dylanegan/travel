@@ -5,6 +5,7 @@
 ### Budget
 
 * Taqueria Cancun
+* [Kitchenette](http://kitchenettesf.com)
 
 ### Good
 
@@ -16,6 +17,7 @@
 * [Papito](http://papitosf.com)
 * [Plow](http://eatatplow.com)
 * [Radius](http://radiussf.com)
+* [Serpentine](http://serpentinesf.com)
 * [Tony's Pizza Napoletana](http://www.tonyspizzanapoletana.com)
 * [Umi](http://umisf.com)
 * [Zero Zero](http://zerozerosf.com)

@@ -32,6 +32,7 @@
 
 ## Drinking
 
+* [Backstage Cafe & Gallery](https://plus.google.com/116461841281113509053/about?gl=US&hl=en) _say hello to Nakano and 允敬工藤_
 * ~~[BAR YAMAZAKI](http://www.bar-yamazaki.com/english.html)~~
 * ~~Bar Proof~~
 * ~~[Premier Cru](http://www.premier-cru.jp)~~

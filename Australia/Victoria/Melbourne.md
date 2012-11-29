@@ -12,6 +12,7 @@
 * [Cumulus Inc.](http://cumulusinc.com.au) _sit at the food bar_
 * [Embrasse](http://embrasserestaurant.com.au)
 * [Golden Fields](http://goldenfields.com.au)
+* [Gorski & Jones](http://gorskiandjones.com)
 * [Hellenic Republic](http://hellenicrepublic.com.au)
 * [Mamasita](http://mamasita.com.au)
 * [Rockpool Bar & Grill](http://rockpoolmelbourne.com)
