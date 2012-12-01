@@ -12,6 +12,7 @@
 
 * [Bagels & Beans](http://www.bagelsbeans.nl/)
 * [Beter & Leuk](http://www.beterenleuk.nl/)
+* [Burger Bar](http://burger-bar.nl)
 * [Hartog's](http://www.volkorenbrood.nl/)
 
 ### Good
