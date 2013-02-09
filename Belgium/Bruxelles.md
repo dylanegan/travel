@@ -23,6 +23,8 @@
 
 ## Drinking
 
+* [Malting Pot](http://www.maltingpot.be/en/home)
+
 ## Activities
 
 ## [Photos](http://www.flickr.com/photos/dylane/sets/72157629919030590/)
