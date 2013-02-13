@@ -25,9 +25,10 @@
 
 ### Fine
 
+* [Ciel Bleu](http://cielbleu.nl)
 * [In De Keuken](http://www.indekeuken.com/)
 * [Restaurant Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
-* ~~[Yamazato](http://www.yamazato.nl)~~ *Closed during last visit*
+* [Yamazato](http://www.yamazato.nl)
 
 ## Drinking
 
