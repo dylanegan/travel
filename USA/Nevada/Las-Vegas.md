@@ -1,4 +1,4 @@
-# Las Vegas, May 2012
+# Las Vegas
 
 ## Accommodation
 
