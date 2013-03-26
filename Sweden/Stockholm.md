@@ -5,6 +5,7 @@
 ## Accommodation
 
 * [Nordic Light Hotel](http://www.nordiclighthotel.se/en/)
+* [Yasuragi](http://www.yasuragi.se)
 
 ## Dining
 
@@ -20,6 +21,8 @@
 * [Mathias Dahlgren](http://www.mdghs.com/index.php?lang=En)
 
 ## Drinking
+
+* [Akkurat](http://www.akkurat.se)
 
 ## Activities
 
