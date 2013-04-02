@@ -14,6 +14,7 @@
 ### Good
 
 * [B.A.R.](http://restaurangbar.se/en/)
+* [Vigårda](http://vigarda.se)
 
 ### Fine
 
