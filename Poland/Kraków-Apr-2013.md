@@ -1,5 +1,8 @@
 [Kraków, April 2013](http://en.wikipedia.org/wiki/Kraków)
 
+[A Taste of Kraków](http://www.bbc.com/travel/feature/20130321-a-taste-of-krakow)
+[French Foodie in Kraków](http://frenchfoodieindublin.blogspot.co.uk/2012/10/french-foodie-in-krakow_17.html)
+
 ## Food
 
 _obwarzanek, oscypek, kielbasa, and zapiekana_
@@ -9,6 +12,7 @@ _obwarzanek, oscypek, kielbasa, and zapiekana_
 * [Jarema](http://www.jarema.pl)
 * [Oberza](http://www.oberza.pl)
 * [Pod Baranem](http://podbaranem.com)
+* [Poda Aniolami](http://www.podaniolami.pl/en/)
 * [Resto Illuminati](http://restoilluminati.pl/en/)
 * [STUDIO Qulinarne](http://www.studioqulinarne.pl)
 * [Szara](http://szara.pl)
@@ -34,8 +38,10 @@ _tatanka, Wódka miodowa, and Śliwowica_
 ## Activities
 
 * [Festival OffPlusCamera](http://www.offpluscamera.com/en/)
+* [Ojców National Park](http://en.wikipedia.org/wiki/Ojców_National_Park)
 * [Royal Road](http://en.wikipedia.org/wiki/Royal_Road,_Kraków)
 * [St. Mary's Trumpet Call](https://en.wikipedia.org/wiki/St._Mary's_Trumpet_Call)
+* [Wawel Castle](http://en.wikipedia.org/wiki/Wawel_Castle)
 * [Wieliczka](http://en.wikipedia.org/wiki/Wieliczka)
 
 ## History
