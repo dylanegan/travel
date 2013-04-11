@@ -2,6 +2,8 @@
 
 ## Food
 
+_obwarzanek, oscypek, kielbasa, and zapiekana_
+
 * [Ancora](http://www.ancora-restaurant.com)
 * [Copernicus](http://www.likushoteleirestauracje.pl/pl/Restauracja_Copernicus)
 * [Jarema](http://www.jarema.pl)
@@ -17,4 +19,25 @@
 
 ## Drinking
 
+_tatanka, Wódka miodowa, and Śliwowica_
+
+* [Alchemia](http://en.alchemia.com.pl)
+* [Movida](https://www.facebook.com/movidacocktailbar)
+* [Pauza](http://www.pauza.pl)
+* [The Piano Rouge](http://www.thepianorouge.com)
+
+## Dancing
+
+* [Prozak](http://www.prozak.pl)
+* [Stalowe Magnolie](http://stalowemagnolie.com/?lang=en)
+
 ## Activities
+
+* [Festival OffPlusCamera](http://www.offpluscamera.com/en/)
+* [Royal Road](http://en.wikipedia.org/wiki/Royal_Road,_Kraków)
+* [St. Mary's Trumpet Call](https://en.wikipedia.org/wiki/St._Mary's_Trumpet_Call)
+* [Wieliczka](http://en.wikipedia.org/wiki/Wieliczka)
+
+## History
+
+* [Auschwitz](http://en.wikipedia.org/wiki/Auschwitz_concentration_camp)
