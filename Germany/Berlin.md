@@ -22,6 +22,7 @@
 * ~~[Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)~~
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
 * [Dirty South](https://www.facebook.com/dirtysouthberlin)
+* [Fräulein Burger](http://www.fraeuleinburger.de)
 * [Hokey Pokey](http://www.hokey-pokey.de)
 * ~~[Mustafas](http://mustafas.de/)~~
 * [Nil](http://www.nil-imbiss.de/en/index.html)
@@ -43,6 +44,7 @@
 * ~~[Grill Royal](http://www.grillroyal.com/)~~
 * ~~[Joris](https://www.facebook.com/JorisBerlin)~~
 * ~~[Katerschmaus](http://www.katerholzig.de/restaurant/)~~
+* ~~[Katz Orange](http://www.katzorange.com)~~
 * ~~[Luchs](http://www.lux-eleven.com/restaurant--bar/restaurant-luchs)~~
 * [Michelberger Mittagstisch](http://www.michelbergerhotel.com/#/de/restaurant)
 * ~~[Mogg & Melzer](http://www.moggandmelzer.com)~~
@@ -61,10 +63,12 @@
 
 * [Absinthe Depot](http://www.erstesabsinthdepotberlin.de)
 * [Becketts Kopf](http://www.becketts-kopf.de)
+* [Booze](https://www.facebook.com/booze.bar.berlin)
 * [Buck & Breck](http://buckandbreck.com) _had a slightly annoying experience, but will give it a third try_
 * [Club Der Visionäre](http://clubdervisionaere.com)
 * ~~[Edelweiss](http://www.edelweiss36.com/)~~
 * [Green Door](http://greendoor.de)
+* [HERMAN](https://www.facebook.com/bravebelgians.HERMAN)
 * ~~[Madame Claude](http://madameclaude.de/)~~
 * [Prater Biergarten](http://www.pratergarten.de/d/biergarten.php4)
 * ~~[Zyankali](http://www.zyankali.de/)~~
@@ -107,5 +111,6 @@
 ## Activities
 
 * ~~[Home Opera](http://www.homeopera.net)~~
+* [Pool & Cigars](http://www.poolandcigars.de)
 
 ## Photos
