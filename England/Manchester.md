@@ -26,6 +26,7 @@
 ### Fine
 
 * ~~[Aumbry](http://www.aumbryrestaurant.co.uk)~~
+* ~~[The French](http://www.the-french.co.uk)~~
 
 ## Drinking
 
@@ -33,6 +34,7 @@
 * ~~[Cloud 23](http://www.cloud23bar.com)~~
 * ~~[Corridor](http://www.corridorbar.co.uk)~~
 * ~~[Épernay Champagne Bar](http://www.epernaychampagnebars.com/manch.html)~~
+* [The Gaslamp](http://the-gaslamp.tumblr.com)
 * ~~[Hula Bar](http://www.hulabar.co.uk)~~
 * ~~[Keko Moku](http://www.kekomoku.co.uk)~~
 * [The Liars Club](http://www.theliarsclub.co.uk)
@@ -41,7 +43,7 @@
 * ~~[Odd Bar](http://oddbar.co.uk)~~
 * [Port Street Beer House](http://www.portstreetbeerhouse.co.uk)
 * ~~[Socio](http://sociorehab.com)~~
-* ~~[Trof](http://www.trofnq.co.uk)~~
+* [Trof](http://www.trofnq.co.uk)
 * ~~[Velvet](http://www.velvetmanchester.com/bar)~~
 * [Victorian Chop House Company](http://www.samschophouse.co.uk)
 
