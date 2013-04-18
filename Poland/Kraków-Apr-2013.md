@@ -3,7 +3,7 @@
 [A Taste of Kraków](http://www.bbc.com/travel/feature/20130321-a-taste-of-krakow)
 [French Foodie in Kraków](http://frenchfoodieindublin.blogspot.co.uk/2012/10/french-foodie-in-krakow_17.html)
 
-## Food
+## [Food](https://maps.google.com/maps/ms?msid=213048725167148360720.0004da9f7893f710df18f&msa=0&ll=50.05375,19.946408&spn=0.018296,0.045447)
 
 _obwarzanek, oscypek, kielbasa, and zapiekana_
 
