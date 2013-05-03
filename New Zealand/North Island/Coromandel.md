@@ -6,17 +6,11 @@
 
 ## Dining
 
-### Budget
-
-### Good
-
-### Fine
-
 ## Drinking
 
 ## Activities
 
-* Hot Water Beach
-* Cathedral Cove
+* ~~[Cathedral Cove](http://en.wikipedia.org/wiki/Te_Whanganui-A-Hei_(Cathedral_Cove)_Marine_Reserve)~~
+* ~~[Hot Water Beach](http://en.wikipedia.org/wiki/Hot_Water_Beach)~~
 
 ## Photos
