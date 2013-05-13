@@ -33,6 +33,8 @@
 * [Maven](http://ww.restaurantmaven.dk/)
 * [Mikkeller](http://mikkeller.dk/)
 * [Nørrebro Bryghus](http://noerrebrobryghus.dk/21/)
+* ~~[Ruby](http://rby.dk)~~
+* ~~[Ved Stranden 10](http://www.vedstranden10.dk/)~~
 
 ## Shopping
 
