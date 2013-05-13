@@ -34,8 +34,13 @@
 * [Mikkeller](http://mikkeller.dk/)
 * [Nørrebro Bryghus](http://noerrebrobryghus.dk/21/)
 
+## Shopping
+
+* [Torvehallerne](http://www.torvehallernekbh.dk)
+
 ## Activities
 
+* [Botanical Garden](http://botanik.snm.ku.dk/english)
 * [Freetown Christiania](http://en.wikipedia.org/wiki/Freetown_Christiania)
 
 ## [Photos](http://www.flickr.com/photos/dylane/sets/72157630118292894/)
