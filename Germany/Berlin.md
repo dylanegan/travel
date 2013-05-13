@@ -34,6 +34,7 @@
 
 ### Good
 
+* ~~[Aunt Benny](http://www.auntbenny.com)~~
 * ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
 * [The Bird](http://www.thebirdinberlin.com/)
 * ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
@@ -44,13 +45,15 @@
 * ~~[Grill Royal](http://www.grillroyal.com/)~~
 * ~~[Joris](https://www.facebook.com/JorisBerlin)~~
 * ~~[Katerschmaus](http://www.katerholzig.de/restaurant/)~~
-* ~~[Katz Orange](http://www.katzorange.com)~~
+* [Katz Orange](http://www.katzorange.com)
 * ~~[Luchs](http://www.lux-eleven.com/restaurant--bar/restaurant-luchs)~~
 * [Michelberger Mittagstisch](http://www.michelbergerhotel.com/#/de/restaurant)
 * ~~[Mogg & Melzer](http://www.moggandmelzer.com)~~
 * [Monsieur Vuong](http://www.monsieurvuong.de)
 * [Prater Gaststätte](http://www.pratergarten.de/d/gaststaette.php4)
 * [Renger Patzsch](http://http://www.renger-patzsch.com)
+* [Sauvage](http://www.sauvageberlin.com) _paleo_
+* [Sasaya](http://sasaya-berlin.de)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
 * ~~[susuru](http://www.susuru.de)~~
 * [Transit](http://www.transit-restaurants.com)
@@ -62,6 +65,7 @@
 ## Drinking
 
 * [Absinthe Depot](http://www.erstesabsinthdepotberlin.de)
+* [The Antlered Bunny](https://www.facebook.com/TheAntleredBunny)
 * [Becketts Kopf](http://www.becketts-kopf.de)
 * [Booze](https://www.facebook.com/booze.bar.berlin)
 * [Buck & Breck](http://buckandbreck.com) _had a slightly annoying experience, but will give it a third try_
@@ -96,7 +100,6 @@
 * ~~[Arena](http://www.arena-club.de/)~~
 * [Tresor](http://tresorberlin.com/)
 * ~~[VCF](http://www.residentadvisor.net/club-detail.aspx?id=8007)~~
-* ~~[Weekend](http://www.week-end-berlin.de/)~~
 
 ### Good
 
