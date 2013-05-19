@@ -20,13 +20,14 @@
 * [MANFREDs](http://manfreds.dk/)
 * [Nose2Tail](http://nose2tail.dk/)
 * ~~[Radio](http://restaurantradio.dk/english.asp)~~
+* [Restaurant Schønnemann](http://www.restaurantschonnemann.dk)
 * [sticks'n'sushi](http://www.sushi.dk/en/)
 
 ### Fine
 
 * ~~[Geranium](http://geranium.dk/)~~
 * ~~[Relæ](http://restaurant-relae.dk/)~~
-* ~~[noma](http://www.noma.dk/main.php?lang=en)~~
+* [noma](http://www.noma.dk/main.php?lang=en)
 
 ## Drinking
 
@@ -34,7 +35,7 @@
 * [Mikkeller](http://mikkeller.dk/)
 * [Nørrebro Bryghus](http://noerrebrobryghus.dk/21/)
 * ~~[Ruby](http://rby.dk)~~
-* ~~[Ved Stranden 10](http://www.vedstranden10.dk/)~~
+* [Ved Stranden 10](http://www.vedstranden10.dk/)
 
 ## Shopping
 
