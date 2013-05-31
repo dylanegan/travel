@@ -6,26 +6,21 @@
 
 ## Dining
 
-### Budget
-
 * [Grandma Pollards](http://www.grandmapollards.co.uk)
 * [Pret A Manger](http://www.pret.com)
 
-### Good
-
+* ~~[Aumbry](http://www.aumbryrestaurant.co.uk)~~
 * [Common](http://www.aplacecalledcommon.co.uk)
 * ~~[Hideaway](http://www.ramsons-restaurant.com/hideaway/)~~
-* ~~[San Carlo Cicchetti](http://www.sancarlocicchetti.co.uk)~~
+* [Luck Lust Liquor & Burn](http://lucklustliquorburn.com)
+* [The Oast House](http://theoasthouse.uk.com)
+* [Pie & Ale](http://www.pieandalebar.co.uk)
+* ~~[The Rose Garden](http://therosegardendidsbury.com)~~
 * ~~[Second Floor](http://www.harveynichols.com/restaurants/second-floor-manchester/second-floor-manchester-restaurant)~~
 * ~~[Southern Eleven](http://www.southern11.co.uk)~~
-* [The Oast House](http://theoasthouse.uk.com)
-* ~~[The Rose Garden](http://therosegardendidsbury.com)~~
 * ~~[Teacup](http://teacupandcakes.com)~~
 * ~~[Yuzu](http://www.yuzumanchester.co.uk)~~
 
-### Fine
-
-* ~~[Aumbry](http://www.aumbryrestaurant.co.uk)~~
 * ~~[The French](http://www.the-french.co.uk)~~
 
 ## Drinking
@@ -46,6 +41,7 @@
 * [Trof](http://www.trofnq.co.uk)
 * ~~[Velvet](http://www.velvetmanchester.com/bar)~~
 * [Victorian Chop House Company](http://www.samschophouse.co.uk)
+* ~~[The Whiskey Jar](http://www.thewhiskeyjar.com)
 
 ## Activities
 
