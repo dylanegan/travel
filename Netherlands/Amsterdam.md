@@ -26,7 +26,6 @@
 ### Fine
 
 * [Ciel Bleu](http://cielbleu.nl)
-* [In De Keuken](http://www.indekeuken.com/)
 * [Restaurant Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
 * [&samhoud places](http://www.samhoudplaces.com)
 * [Yamazato](http://www.yamazato.nl)
