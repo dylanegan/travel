@@ -26,7 +26,7 @@
 ### Fine
 
 * [Ciel Bleu](http://cielbleu.nl)
-* [In De Keuken](http://www.indekeuken.com/)
+* ~~[In De Keuken](http://www.indekeuken.com/)~~ _Closed. They do have a new location in Lugano, Switzerland._
 * [Restaurant Vinkeles](http://dylanamsterdam.com/taste-of-the-dylan/)
 * [Yamazato](http://www.yamazato.nl)
 
