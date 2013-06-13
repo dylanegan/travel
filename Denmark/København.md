@@ -35,6 +35,7 @@
 * [Mikkeller](http://mikkeller.dk/)
 * [Nørrebro Bryghus](http://noerrebrobryghus.dk/21/)
 * ~~[Ruby](http://rby.dk)~~
+* [Salon 39](http://www.salon39.dk)
 * [Ved Stranden 10](http://www.vedstranden10.dk/)
 
 ## Shopping
