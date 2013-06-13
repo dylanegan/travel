@@ -31,6 +31,7 @@
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
 * ~~[Wiener Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
+* [Yarok](http://www.yarok-restaurant.de)
 
 ### Good
 
