@@ -22,12 +22,15 @@
 * ~~[Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)~~
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
 * [Dirty South](https://www.facebook.com/dirtysouthberlin)
+* [Dolores](http://www.dolores-online.de)
 * [Fräulein Burger](http://www.fraeuleinburger.de)
 * [Hokey Pokey](http://www.hokey-pokey.de)
+* [Maria Bonita](http://mariabonitaberlin.wordpress.com)
 * ~~[Mustafas](http://mustafas.de/)~~
 * [Nil](http://www.nil-imbiss.de/en/index.html)
 * ~~[Pizza Nostra](http://www.qype.com/place/193109-Pizzeria-Pizza-Nostra-Berlin)~~
 * ~~[Sala da Mangiare](http://saladamangiare.de)~~
+* [Santa Maria](http://www.santaberlin.com)
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
 * ~~[Wiener Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
