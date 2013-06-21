@@ -9,7 +9,9 @@
 * [Grandma Pollards](http://www.grandmapollards.co.uk)
 * [Pret A Manger](http://www.pret.com)
 
+
 * ~~[Aumbry](http://www.aumbryrestaurant.co.uk)~~
+* [BrewDog](http://www.brewdog.com/bars/manchester)
 * [Common](http://www.aplacecalledcommon.co.uk)
 * ~~[Hideaway](http://www.ramsons-restaurant.com/hideaway/)~~
 * [Luck Lust Liquor & Burn](http://lucklustliquorburn.com)
@@ -21,11 +23,13 @@
 * ~~[Teacup](http://teacupandcakes.com)~~
 * ~~[Yuzu](http://www.yuzumanchester.co.uk)~~
 
+
 * ~~[The French](http://www.the-french.co.uk)~~
 
 ## Drinking
 
 * ~~[The Alchemist](http://www.thealchemist.uk.com)~~
+* [BrewDog](http://www.brewdog.com/bars/manchester)
 * ~~[Cloud 23](http://www.cloud23bar.com)~~
 * ~~[Corridor](http://www.corridorbar.co.uk)~~
 * ~~[Épernay Champagne Bar](http://www.epernaychampagnebars.com/manch.html)~~
@@ -41,7 +45,7 @@
 * [Trof](http://www.trofnq.co.uk)
 * ~~[Velvet](http://www.velvetmanchester.com/bar)~~
 * [Victorian Chop House Company](http://www.samschophouse.co.uk)
-* ~~[The Whiskey Jar](http://www.thewhiskeyjar.com)
+* ~~[The Whiskey Jar](http://www.thewhiskeyjar.com)~~
 
 ## Activities
 
