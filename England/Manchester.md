@@ -9,7 +9,6 @@
 * [Grandma Pollards](http://www.grandmapollards.co.uk)
 * [Pret A Manger](http://www.pret.com)
 
-
 * ~~[Aumbry](http://www.aumbryrestaurant.co.uk)~~
 * [BrewDog](http://www.brewdog.com/bars/manchester)
 * [Common](http://www.aplacecalledcommon.co.uk)
@@ -22,7 +21,6 @@
 * ~~[Southern Eleven](http://www.southern11.co.uk)~~
 * ~~[Teacup](http://teacupandcakes.com)~~
 * ~~[Yuzu](http://www.yuzumanchester.co.uk)~~
-
 
 * ~~[The French](http://www.the-french.co.uk)~~
 
