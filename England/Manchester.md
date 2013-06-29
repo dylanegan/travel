@@ -26,7 +26,7 @@
 
 - - -
 
-* ~~[The French](http://www.the-french.co.uk)~~
+* [The French](http://www.the-french.co.uk)
 
 ## Drinking
 
@@ -47,7 +47,7 @@
 * [Trof](http://www.trofnq.co.uk)
 * ~~[Velvet](http://www.velvetmanchester.com/bar)~~
 * [Victorian Chop House Company](http://www.samschophouse.co.uk)
-* ~~[The Whiskey Jar](http://www.thewhiskeyjar.com)~~
+* [The Whiskey Jar](http://www.thewhiskeyjar.com)
 
 ## Activities
 
