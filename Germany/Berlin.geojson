@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Name": "The Barn",
+      "Type": "Café",
+      "Address": "Auguststraße 58, 10119",
+      "How Many Dylans?": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.398130238056183,
+        52.52745564968129
+      ]
+    }
+  }]
+}
