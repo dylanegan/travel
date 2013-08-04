@@ -4,15 +4,30 @@
     "type": "Feature",
     "properties": {
       "Name": "The Barn",
-      "Type": "Café",
       "Address": "Auguststraße 58, 10119",
-      "How Many Dylans?": ""
+      "How Many Dylans?": "",
+      "marker-symbol": "cafe"
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
         13.398130238056183,
         52.52745564968129
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Five Elephant",
+      "Address": "Reichenberger Straße 101, 10999",
+      "How Many Dylans?": "",
+      "marker-symbol": "cafe"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        13.43840092420578,
+        52.49335073639228
       ]
     }
   }]
