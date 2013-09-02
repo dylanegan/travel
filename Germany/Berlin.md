@@ -19,6 +19,7 @@
 
 * ~~[Babanbe](http://babanbe.com)~~
 * ~~[Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)~~
+* [Burrito Baby](http://burritobaby.de)
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
 * [Fräulein Burger](http://www.fraeuleinburger.de)
 * [Hokey Pokey](http://www.hokey-pokey.de)
