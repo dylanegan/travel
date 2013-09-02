@@ -1,3 +1,5 @@
+# encoding: UTF-8
+
 total = 0.0
 unvisited = 0
 
