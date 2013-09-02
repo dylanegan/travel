@@ -17,20 +17,14 @@
 
 ### Budget
 
-* [Ali Baba](http://libanesischerimbissfriedrichshain.u-city.org)
 * ~~[Babanbe](http://babanbe.com)~~
 * ~~[Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)~~
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
-* [Dirty South](https://www.facebook.com/dirtysouthberlin)
-* [Dolores](http://www.dolores-online.de)
 * [Fräulein Burger](http://www.fraeuleinburger.de)
 * [Hokey Pokey](http://www.hokey-pokey.de)
-* [Maria Bonita](http://mariabonitaberlin.wordpress.com)
 * ~~[Mustafas](http://mustafas.de/)~~
-* [Nil](http://www.nil-imbiss.de/en/index.html)
 * ~~[Pizza Nostra](http://www.qype.com/place/193109-Pizzeria-Pizza-Nostra-Berlin)~~
 * ~~[Sala da Mangiare](http://saladamangiare.de)~~
-* [Santa Maria](http://www.santaberlin.com)
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
 * ~~[Wiener Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
@@ -45,7 +39,6 @@
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
 * ~~[Einklang](http://www.einklang-feinkost.de)~~
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
-* [Fischsuppen](https://www.facebook.com/Fischschuppen)
 * ~~[Grill Royal](http://www.grillroyal.com/)~~
 * ~~[Joris](https://www.facebook.com/JorisBerlin)~~
 * ~~[Katerschmaus](http://www.katerholzig.de/restaurant/)~~
@@ -59,7 +52,7 @@
 * [Sauvage](http://www.sauvageberlin.com) _paleo_
 * [Sasaya](http://sasaya-berlin.de)
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
-* ~~[susuru](http://www.susuru.de)~~
+* [susuru](http://www.susuru.de)
 * [Transit](http://www.transit-restaurants.com)
 
 ### Fine
@@ -72,7 +65,6 @@
 * [The Antlered Bunny](https://www.facebook.com/TheAntleredBunny)
 * [Becketts Kopf](http://www.becketts-kopf.de)
 * [Booze](https://www.facebook.com/booze.bar.berlin)
-* [Buck & Breck](http://buckandbreck.com) _had a slightly annoying experience, but will give it a third try_
 * [Club Der Visionäre](http://clubdervisionaere.com)
 * ~~[Edelweiss](http://www.edelweiss36.com/)~~
 * [Green Door](http://greendoor.de)
@@ -113,7 +105,7 @@
 ### Excellent
 
 * ~~[Berghain](http://berghain.de/)~~
-* ~~[Watergate](http://www.water-gate.de/)~~
+* [Watergate](http://www.water-gate.de/)
 
 ## Activities
 
