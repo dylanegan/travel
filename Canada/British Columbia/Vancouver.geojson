@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Name": "Y Yoga - Kitsilano",
+      "Address": "1915 W 4th Ave, Vancouver, BC V6J 1M7",
+      "How Many Dylans?": "",
+      "marker-symbol": "marker"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -123.14837,
+        49.268218
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "L'Abattoir",
+      "Address": "217 Carrall St. Gastown, Vancouver",
+      "How Many Dylans?": "",
+      "marker-symbol": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -123.104315,
+        49.283135
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Wildebeest",
+      "Address": "120 West Hastings Street, Vancouver, BC",
+      "How Many Dylans?": "",
+      "marker-symbol": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -123.107659,
+        49.282079
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Chewies",
+      "Address": "2201 West 1st Avenue, Vancouver, BC V6K 1E9, Canada",
+      "How Many Dylans?": "",
+      "marker-symbol": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -123.155137,
+        49.270894
+      ]
+    }
+  }]
+}
