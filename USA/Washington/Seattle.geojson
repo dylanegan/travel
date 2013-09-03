@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Name": "Shiro's",
+      "Address": "2401 2nd Ave., Seattle, WA 98121",
+      "How Many Dylans?": "",
+      "marker-symbol": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.34723,
+        47.614856
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "The Walrus and the Carpenter",
+      "Address": "4743 Ballard Ave NW, Seattle, Wa 98107",
+      "How Many Dylans?": "",
+      "marker-symbol": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.380030,
+        47.663611
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Bathtub Gin & Co",
+      "Address": "2205 2nd Ave., Seattle, WA 98121",
+      "How Many Dylans?": "",
+      "marker-symbol": "bar"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.344753,
+        47.613144
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Canon",
+      "Address": "928 12th Ave, Seattle, WA",
+      "How Many Dylans?": "",
+      "marker-symbol": "bar"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.316634,
+        47.611279
+      ]
+    }
+  }]
+}
