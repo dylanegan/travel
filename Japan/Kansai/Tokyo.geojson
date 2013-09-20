@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.710876,
+          35.668385,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Omotesando Koffee",
+        "words": "I know you're not a fan of coffee. If you were, or wanted coffee recommendations, I can give you a ton of spots here. This however, is a special place. You can get espresso and you can get custard cakes. If you were to have your 1st coffee, you could do worse than have it here and maybe not much better."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.692444,
+          35.666641,
+          0
+        ]
+      },
+      "properties": {
+        "name": "FUGLEN TOKYO",
+        "words": "Cloned from Oslo. Cocktails and coffee. Near Oli's work, so ping him. Can walk from Omotesando -> Fuglen or reverse, via Harajuku and Yoyogi koen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703476,
+          35.66959,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Kyushu Jangara Ramen",
+        "words": "Cheap good tonkotsu ramen. Tonkotsu is the pork bone broth from Kyushu."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.70134,
+          35.649021,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Little lunch spot",
+        "words": "At Saturday surf (nearby) I met a dude called Yu who works there. He recommended this little nondescript place for lunch. It was really nice and a good little experience. The area here is cool too."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.698654,
+          35.649048,
+          0
+        ]
+      },
+      "properties": {
+        "name": "Saturday Surf",
+        "words": "A surf shop, from NYC, in Tokyo. They actually have shops either in NYC or in JP. Made friends with a dude who works here called Yu. Very nice dude. There's a nice deck out the back. They have great coffee and they also have chocolate from http://mastbrothers.com. Mmm. Good clothes too."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.723038,
+          35.657547,
+          0
+        ]
+      },
+      "properties": {
+        "name": "西麻布 坊野",
+        "words": "We stayed on this street. There are lots of places around here (incl Savoy and Gonpatchi - the Kill Bill famed restaurant that's fun but touristy). I really wanted to get to this tempura place, but didn't get a chance to. You might like it."
+      }
+    }
+  ]
+}
