@@ -24,7 +24,6 @@
 * [Fräulein Burger](http://www.fraeuleinburger.de)
 * [Hokey Pokey](http://www.hokey-pokey.de)
 * ~~[Mustafas](http://mustafas.de/)~~
-* ~~[Pizza Nostra](http://www.qype.com/place/193109-Pizzeria-Pizza-Nostra-Berlin)~~
 * ~~[Sala da Mangiare](http://saladamangiare.de)~~
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
@@ -33,8 +32,8 @@
 
 ### Good
 
-* ~~[Aunt Benny](http://www.auntbenny.com)~~
-* ~~[Balikci Ergün](https://www.facebook.com/pages/Balikci-Ergun/136665353098631)~~
+* [Aunt Benny](http://www.auntbenny.com)
+* Balikci Ergün
 * [The Bird](http://www.thebirdinberlin.com/)
 * ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
 * [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
