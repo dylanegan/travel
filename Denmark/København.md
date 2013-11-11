@@ -27,7 +27,7 @@
 
 * ~~[Geranium](http://geranium.dk/)~~
 * ~~[Relæ](http://restaurant-relae.dk/)~~
-* [noma](http://www.noma.dk/main.php?lang=en)
+* [noma](http://noma.dk/)
 
 ## Drinking
 
