@@ -1,7 +1,7 @@
 language: ruby
 
 rvm:
-  - rbx-19mode
+  - rbx-2.2.1
 
 env:
   matrix:
