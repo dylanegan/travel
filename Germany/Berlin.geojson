@@ -5,8 +5,10 @@
     "properties": {
       "Name": "The Barn",
       "Address": "Auguststraße 58, 10119",
+      "Notes": "",
       "How Many Dylans?": "",
-      "marker-symbol": "cafe"
+      "marker-symbol": "cafe",
+      "marker-color": "#3D9140"
     },
     "geometry": {
       "type": "Point",
@@ -20,8 +22,10 @@
     "properties": {
       "Name": "Five Elephant",
       "Address": "Reichenberger Straße 101, 10999",
+      "Notes": "Definitely grab a cheesecake.",
       "How Many Dylans?": "",
-      "marker-symbol": "cafe"
+      "marker-symbol": "cafe",
+      "marker-color": "#3D9140"
     },
     "geometry": {
       "type": "Point",
