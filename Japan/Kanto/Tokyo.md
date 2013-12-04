@@ -11,6 +11,8 @@
 ### Budget
 
 * [Kanda Yabu Soba](http://www.yabusoba.net)
+* [みのりんご](http://www.minoringo.jp)
+* Nantsuttei _Shinagawa_
 
 ### Good
 
@@ -18,6 +20,7 @@
 * [icaro](http://icaro-miyamoto.com)
 * [かくれんぼ (kakurenbo)](http://goo.gl/maps/o4ySP)
 * Kanemasu _macho cuisine_
+* Kinoshige _Tsukiji_
 * [Savoy](http://www.savoy.vc)
 * [Sho-chu Dining Dan](http://cafs.jp/web/restaurant/dan/index.html)
 * [Tempura Tsunahachi](http://www.tunahachi.co.jp/en/)
