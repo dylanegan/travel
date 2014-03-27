@@ -18,7 +18,7 @@ A [VW Passat Variant](http://germany.europcar.de/fleetguide/), driving from Berl
 * ~~[Cottocrudo](http://www.cottocrudo.cz/)~~
 * ~~[Divinis](http://www.divinis.cz/en/index.php)~~
 * ~~[Le Terrior](http://www.leterroir.cz/)~~
-* [Lichfield](http://www.theaugustine.com/dining/lichfield-restaurant/)
+* ~~[Elegantes](http://www.lhw.com/hotel/The-Augustine-Prague-Czech-Republic/services-amenities/dining)~~
 * ~~[Sansho](http://www.sansho.cz/en/)~~
 * ~~[SaSaZu](https://en-prague.sasazu.com/)~~
 
