@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Name": "Olympic Provisions NW",
+      "Address": "1632 NW Thurman St., Portland, OR 97209",
+      "How Many Dylans?": "",
+      "marker-symbol": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.688425, 
+        45.535618
+      ]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+      "Name": "Olympic Provisions SE",
+      "Address": "107 SE Washington St., Portland, OR 97214",
+      "How Many Dylans?": "",
+      "marker-symbol": "restaurant"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.663880,
+        45.518705
+      ]
+    }
+  }]
+}
