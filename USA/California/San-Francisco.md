@@ -5,7 +5,6 @@
 ### Budget
 
 * Taqueria Cancun
-* [Kitchenette](http://kitchenettesf.com)
 
 ### Good
 
