@@ -18,10 +18,11 @@
 ### Good
 
 * [Bussia](http://www.bussia.nl/)
-* [Restaurant de Kas](http://www.restaurantdekas.nl)
-* ~~[The Butcher](http://www.the-butcher.com)~~ _reservation possible through Ben from Door 74_
-* ~~[Trouw Amsterdam](http://trouwamsterdam.nl)~~ _I have been before, but it has changed since_
+* __[Cannibale Royale](http://www.facebook.com/CannibaleRoyale)__
+* ~~[Mossel en Gin](http://www.mosselengin.nl)~~
+* __[&samhoud places street food](http://www.samhoudplaces.com)__ _try the &Tomeato / oyster happy hour Sunday_
 * [Wilde Zwijnen](http://wildezwijnen.com)
+* [Worst](http://deworst.nl)
 
 ### Fine
 
@@ -33,9 +34,12 @@
 ## Drinking
 
 * [Brouwerij 't IJ'](http://www.brouwerijhetij.nl/)
-* [Door 74](http://www.door-74.com/)
+* __[Door 74](http://www.door-74.com/)__
+* ~~[The Harbour Club](https://www.facebook.com/theharbourclub)~~
 * ~~[HPS](http://www.hpsamsterdam.com)~~
-* ~~[Vesper Bar](http://www.vesperbar.nl)~~
+* ~~[Mystique](http://www.mystiqueamsterdam.nl)~~
+* __[Sluyswacht](http://www.sluyswacht.nl)__
+* ~~[Tales & Spirits](https://www.facebook.com/talesandspirits)~~
 * [Whiskycafé L&B](http://www.whiskyproeverijen.nl/en_cafe.htm)
 
 ## Activities
