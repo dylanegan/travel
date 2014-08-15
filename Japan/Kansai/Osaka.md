@@ -18,7 +18,7 @@
 
 ## Drinking
 
-* [BAR Kimuraya](http://www.barkimuraya.com)
+* __[BAR Kimuraya](http://www.barkimuraya.com)__
 
 ## Activities
 
