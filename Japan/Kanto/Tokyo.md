@@ -52,6 +52,7 @@
   * ~~Sunday Impromptu Concerts~~
   * ~~Walk to Shibuya via Takeshita-dōri~~
 * __[Meiji Jingu Shrine](http://www.meijijingu.or.jp/english/)__
+* __[Nakameguro](https://en.wikipedia.org/wiki/Nakameguro,_Meguro,_Tokyo)__
 * ~~[Oedo Onsen](http://www.ooedoonsen.jp/higaeri/english/index.html)~~
 * __[Shibuya](http://en.wikipedia.org/wiki/Shibuya)__
 * [Tokyo City View](http://www.roppongihills.com/tcv/en/index.html)
