@@ -14,7 +14,9 @@
 
 ### Good
 
+* __[地下の粋](http://tabelog.com/tokyo/A1313/A131301/13113733/)__ _oysters_
 * ~~[Cujorl](http://cujorl.jp)~~
+* __[玄品ふぐ 六本木の関](http://tabelog.com/tokyo/A1307/A130701/13038790/)__ _fugu degustation_
 * [icaro](http://icaro-miyamoto.com)
 * [かくれんぼ (kakurenbo)](http://goo.gl/maps/o4ySP)
 * __[Kanemasu](http://tabelog.com/tokyo/A1313/A131302/13002243/)__
