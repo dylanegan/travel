@@ -1,30 +1,18 @@
 # [Berlin](http://en.wikipedia.org/wiki/Berlin)
 
-* [Slow Travel Berlin](http://www.slowtravelberlin.com/)
-
-## Transport
-
-## Accommodation
-
 ## Café
 
-* [The Barn](http://thebarn.de/)
-* ~~[Bateau Ivre](http://www.qype.co.uk/place/14933-Bistro-Bar-Bateau-Ivre-Berlin)~~
-* [Café CK](http://cafeckberlin.com/)
 * [Five Elephant](http://www.fiveelephant.com)
+* [Silo](http://silo-coffee.com)
 
 ## Dining
 
 ### Budget
 
-* ~~[Babanbe](http://babanbe.com)~~
-* ~~[Burgermeister](http://www.qype.co.uk/place/14918-Burgermeister-Berlin)~~
 * [Burrito Baby](http://burritobaby.de)
 * [Dada Falafel](http://www.dadafalafel.de/falafel.html)
-* [Fräulein Burger](http://www.fraeuleinburger.de)
 * [Hokey Pokey](http://www.hokey-pokey.de)
-* ~~[Mustafas](http://mustafas.de/)~~
-* ~~[Sala da Mangiare](http://saladamangiare.de)~~
+* [Piri's](http://piris-chicken.com)
 * [smartdeli](http://www.smartdeli.org)
 * [Steckerlfisch](http://steckerlfisch.com/)
 * ~~[Wiener Strudel Manufaktur](http://www.strudel-manufaktur.de)~~
@@ -32,84 +20,53 @@
 
 ### Good
 
-* [Aunt Benny](http://www.auntbenny.com)
 * Balikci Ergün
-* [The Bird](http://www.thebirdinberlin.com/)
-* ~~[Brooklyn Beef Club](http://www.brooklynbeefclub.com/)~~
-* [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en)
-* ~~[Einklang](http://www.einklang-feinkost.de)~~
+* [The Bird](http://www.thebirdinberlin.com/) _not the Kreuzberg one_
+* [ChenChe](http://www.chenche-berlin.de)
+* [Cocolo](http://kuchi.de/?r=cocolo-xberg)
+* [Dos Palillos](http://www.dospalillos.com/home.php?rest=2&lang=en) _closed :sad face:_
 * [FILETSTÜCK](http://www.filetstueck-berlin.de)
-* ~~[Grill Royal](http://www.grillroyal.com/)~~
-* ~~[Joris](https://www.facebook.com/JorisBerlin)~~
-* ~~[Katerschmaus](http://www.katerholzig.de/restaurant/)~~
+* [House of Small Wonder](http://www.houseofsmallwonder.de)
+* Ixthys _religious Korean_
 * [Katz Orange](http://www.katzorange.com)
-* ~~[Luchs](http://www.lux-eleven.com/restaurant--bar/restaurant-luchs)~~
+* [Kimchi Princess](http://kimchiprincess.com)
+* [Le Marigny](http://le-marigny.de) _if you've had too many beers at Bellman and want food and to continue drinking_
+* [Markthalle Neun](http://markthalleneun.de) _specifically Big Stuff Smoked BBQ_
 * [Michelberger Mittagstisch](http://www.michelbergerhotel.com/#/de/restaurant)
-* ~~[Mogg & Melzer](http://www.moggandmelzer.com)~~
+* [Mogg & Melzer](http://www.moggandmelzer.com)
 * [Monsieur Vuong](http://www.monsieurvuong.de)
+* [Papa Pane](http://papapane.de)
 * [Prater Gaststätte](http://www.pratergarten.de/d/gaststaette.php4)
 * [Renger Patzsch](http://http://www.renger-patzsch.com)
-* [Sauvage](http://www.sauvageberlin.com) _paleo_
+* [Ruben Carla](http://www.rubencarla.com)
+* ~~[Sala da Mangiare](http://saladamangiare.de)~~
+* [Salt N Bone](http://saltnbone.de)
 * [Sasaya](http://sasaya-berlin.de)
+* [Sauvage](http://www.sauvageberlin.com) _paleo_
 * [Schneeweiß](http://www.schneeweiss-berlin.de/schneeweiss.html)
 * [susuru](http://www.susuru.de)
-* [Transit](http://www.transit-restaurants.com)
+* [Tommi's Burger Joint](http://www.burgerjoint.de)
+* [Trentasei](http://trentasei.de)
+* [VOLTA](http://dasvolta.com)
+* [Zenkichi](http://zenkichi.de)
 
 ### Fine
 
+* [Ernst](http://ernstberlin.de)
+* [Horvath](http://www.restaurant-horvath.de)
 * [reinstoff](http://reinstoff.eu)
 
 ## Drinking
 
-* [Absinthe Depot](http://www.erstesabsinthdepotberlin.de)
-* [The Antlered Bunny](https://www.facebook.com/TheAntleredBunny)
-* [Becketts Kopf](http://www.becketts-kopf.de)
-* [Booze](https://www.facebook.com/booze.bar.berlin)
+* Bellman _near Five Elephant if you want a beer outside_
 * [Club Der Visionäre](http://clubdervisionaere.com)
-* ~~[Edelweiss](http://www.edelweiss36.com/)~~
 * [Green Door](http://greendoor.de)
 * [HERMAN](https://www.facebook.com/bravebelgians.HERMAN)
-* ~~[Madame Claude](http://madameclaude.de/)~~
+* [Hopfenreich](https://www.facebook.com/hopfenreichberlin)
+* [Jigger Beaker & Glass](https://www.facebook.com/jiggerbeakerglass)
+* [Kaschk](http://kaschk.de)
+* Lugosi _when Tony works_
 * [Prater Biergarten](http://www.pratergarten.de/d/biergarten.php4)
-* ~~[Zyankali](http://www.zyankali.de/)~~
-
-## Shopping
-
-* ~~[5 CUPS and some sugar](http://www.5cups.de)~~
-* ~~[Apfelgalerie](http://www.apfelgalerie.de/index.html)~~
-* ~~[Ben und Bellchen](http://www.ben-und-bellchen.de)~~
-* [Depot2](http://depot2.de)
-* ~~[Dong Xuan Center](http://www.findingberlin.com/dong-xuan-center/)~~
-* ~~[feinschlicht](http://www.feinschlicht.de)~~ _Wir machen Frucht- und Gemüseaufstriche, Chutneys und mehr ..._
-* [Finest Whisky](http://www.finestwhisky.de)
-* [Fussgarage](http://www.fussgarage.de)
-* ~~[Jünemann's Pantoffel Eck](http://www.pantoffeleck.de/shop/)~~
-* ~~[ManuTeeFaktur](https://www.facebook.com/ManuTeeFaktur)~~
-* ~~[Mehlstübchen](http://www.mehlstuebchen.de)~~
-* ~~[Minga Berlin Apparel](http://www.mingaberlin.com)
-* ~~[Wildfleischhandel](http://www.wildfleisch-berlin.de/index.html)~~
-
-## Clubbing
-
-### Decent
-
-* ~~[Arena](http://www.arena-club.de/)~~
-* [Tresor](http://tresorberlin.com/)
-* ~~[VCF](http://www.residentadvisor.net/club-detail.aspx?id=8007)~~
-
-### Good
-
-* ~~[Horst Krzbrg](http://www.horst-krzbrg.de)~~
-* ~~[KaterHolzig](http://www.katerholzig.de/)~~
-
-### Excellent
-
-* ~~[Berghain](http://berghain.de/)~~
-* [Watergate](http://www.water-gate.de/)
-
-## Activities
-
-* ~~[Home Opera](http://www.homeopera.net)~~
-* [Pool & Cigars](http://www.poolandcigars.de)
-
-## Photos
+* [REDWOOD](http://redwoodbar.de)
+* TiER _when Damien works_
+* [Zur kleinen Markthalle](http://zur-kleinen-markthalle.de)
