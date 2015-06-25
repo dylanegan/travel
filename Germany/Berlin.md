@@ -71,4 +71,5 @@ __GET FUCKED UP ON THE STREETS WITH SPÄTI LOVE (BEER)__
 * [Prater Biergarten](http://www.pratergarten.de/d/biergarten.php4)
 * [REDWOOD](http://redwoodbar.de)
 * TiER _when Damien works_
+* [Vin Aqua Vin](http://vinaquavin.de)
 * [Zur kleinen Markthalle](http://zur-kleinen-markthalle.de)
