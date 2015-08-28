@@ -43,7 +43,7 @@
 
 ## Shopping
 
-* __[Soukichi Inc.](http://www.sokichi.co.jp)__
+* __[Sokichi Inc.](http://www.sokichi.co.jp)__
 
 ## Activities
 
