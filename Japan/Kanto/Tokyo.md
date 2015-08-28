@@ -25,6 +25,7 @@
 * __[Savoy](http://www.savoy.vc)__
 * __[Sho-chu Dining Dan](http://cafs.jp/web/restaurant/dan/index.html)__
 * ~~[Torishiki](http://tabelog.com/tokyo/A1316/A131601/13041029)~~
+* __[Tram Stop Tokyo](https://www.facebook.com/tramstoptokyo)__
 
 ### Fine
 
