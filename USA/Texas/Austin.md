@@ -6,7 +6,7 @@
 
 ## Accommodation
 
-* [The Red House](http://socospaces.com/SoCo/redhouse.html)
+* [The Red House](http://reservations.vacationrentaldesk.com/TheRedHouse/listing.html)
 
 ## Dining
 
