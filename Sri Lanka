@@ -1,0 +1,174 @@
++Sri Lanka
++=========
+
++
+
++
+
++Places to Visit
++---------------
+
++
+
++-http://hotelsrilanka12.blogspot.com/2013/07/wondering-where-to-go-or-beautiful.html
+
++
+
++-https://www.facebook.com/Awesome.Hotels.SriLanka/photos_albums?ref=hl
+
++
+
++
+
++
+
++
+
++Accomodation
++------------
+
++
+
++-http://ClubBentota.com
+
++-http://ElephantCorridor.com
+
++-http://AmagiResorts.com
+
++-http://BungalowByAmaya.com
+
++
+
++
+
++
+
++
+
++Dining
++------
+
++
+
++
+
++Budget
++------
+
++
+
++
+
++Drinking
++--------
+
++-water 
+
++-tea  -http://susenteas.com
+
++-cool drinks
+
++-hot drinks
+
++
+
++Gems And Jewellery
++------------------
+
++-http://ceylongems.lk
+
++
+
++
+
++Fashions and Apparell
+---------------------
+
++-http://wintexglobal.com
+
++
+
++
+
++Businesses and Investments
+--------------------------
+
++-http://cdb.lk
+
++-http://spencebpo.com
+
++
+
++
+
++
+
++Activities and Events
+---------------------
+
++-http://hotelsrilanka12.blogspot.com
+
++-swimming  -http://ttsc.lk
+
++
+
++Photos
+------
+
++
+
++All in all
+----------
+
++ -very good
+
++
+
++
+
++
+
++Geo Json
+---------
+
++
+
++
+
++{
+
++  "type": "FeatureCollection",
+
++  "features": [
+
++    {
+
++      "type": "Feature",
+
++      "properties": {
+
++      "Name": "Sri Lanka",
+
++      "marker-color": "#ff0000"
+
++      },
+
++      "geometry": {
+
++        "type": "Point",
+
++        "coordinates": [
+
++          80.67260742187499,
+
++          7.425112986290636
+
++        ]
+
++      }
+
++    }
+
++  ]
+
++}
