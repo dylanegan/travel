@@ -23,4 +23,4 @@
 
 ## Photos
 * [Neuschwanstein](https://www.facebook.com/permalink.php?story_fbid=196165234071351&id=100010336261924&pnref=story)
-* [King's Lake] (https://www.facebook.com/permalink.php?story_fbid=196164717404736&id=100010336261924&pnref=story)
+* [King's Lake](https://www.facebook.com/permalink.php?story_fbid=196164717404736&id=100010336261924&pnref=story)
