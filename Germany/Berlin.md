@@ -73,3 +73,8 @@ __GET FUCKED UP ON THE STREETS WITH SPÄTI LOVE (BEER)__
 * TiER _when Damien works_
 * [Vin Aqua Vin](http://vinaquavin.de)
 * [Zur kleinen Markthalle](http://zur-kleinen-markthalle.de)
+
+
+## photo
+
+* [the berlin bear and others](https://www.facebook.com/permalink.php?story_fbid=196150857406122&id=100010336261924&pnref=story)
