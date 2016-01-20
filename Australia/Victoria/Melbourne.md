@@ -32,3 +32,8 @@
 * Mr Wilkinson _my favourite_
 * ~~[Nihonshu](http://nihonshu.com.au)~~ _have not been since Fumi left :(_
 * ~~[Polly](http://pollybar.com.au)~~ _the most fun cocktail bar, but depends on who is left_
+ 
+## Cats
+
+* I once saw cats in melbourne. I like cats.
+
