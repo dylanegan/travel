@@ -1,8 +1,5 @@
 language: ruby
 
-rvm:
-  - rbx-2.2.1
-
 env:
   matrix:
     - TESTING=visited
