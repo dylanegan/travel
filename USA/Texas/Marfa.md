@@ -47,6 +47,7 @@ Flying in to [El Paso International Airport (ELP)](http://www.elpasointernationa
 * ~~[Marfa Lights](http://en.wikipedia.org/wiki/Marfa_lights)~~
 * [McDonald Observatory](http://mcdonaldobservatory.org/)
 * [Prada Marfa](http://en.wikipedia.org/wiki/Prada_Marfa)
+* [Balmorhea Pool](http://tpwd.texas.gov/state-parks/balmorhea)
 
 ## [Photos](http://www.flickr.com/photos/dylane/sets/72157629563363858/)
 
