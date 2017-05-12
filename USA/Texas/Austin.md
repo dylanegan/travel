@@ -2,7 +2,7 @@
 
 ## Transport
 
-[Capital Metro 100](http://www.capmetro.org/riding/current_schedules/MAPS/RT100_SB.PDF) is 1USD from AUS to downtown.
+[100-MetroAirport](https://www.capmetro.org/schedmap/?svc=0&f1=100&s=0&d=N) bus also known as the 100-Airport Flyer is 1.25USD from AUS to downtown.
 
 ## Accommodation
 
