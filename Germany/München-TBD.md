@@ -9,6 +9,7 @@
 ### Budget
 
 ### Good
+https://en.wikipedia.org/wiki/Weisswurst
 
 ### Fine
 
